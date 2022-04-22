@@ -1,0 +1,14 @@
+---
+title: "00982_Harassment policies are a good thing"
+draft: false
+author: [Sasha]
+date: 2012-05-30T14:01:36-05:00
+---
+
+When asked what to do to make skeptic and atheist events feel more safe for women attendees and speakers, Stephanie Zvan blogged about a pretty simple thing to do: institute, [publicize, and enforce anti-harassment policies](http://freethoughtblogs.com/almostdiamonds/2012/05/22/making-it-safer-in-the-meantime/). This is such an obvious step that I'm surprised every event doesn't have a clear policy in place. While there are some wild-eyed contrarians (and possible assholes) who think that harassment policies are [oppressive and horrible](http://freethoughtblogs.com/lousycanuck/2012/05/29/on-the-talibanesque-ness-of-harassment-policies/), most people seem to agree that they're a good idea and Stephanie's post is making some [real progress](http://freethoughtblogs.com/almostdiamonds/2012/05/23/real-progress/).
+
+I think having a clearly stated, publicly posted, and evenly enforced policy is a no-brainer for anyone organizing an event. No only does it make it clear to attendees that you take their safety and comfort a priority, but it also helps organizers cover themselves in the case something happens. Not to mention it protects people from false accusations. These are all reasons why workplaces have these policies. These are all reasons we should have them at our events. To address the claim that harassment policies are "prudish" or "sex negative" I can offer my own non-prudish, sex positive testimony that it's very much possible to meet, flirt, and proposition, and have sex with someone at an event without violating a harassment policy. I'm not the smoothest person around, either. If I can manage it, I believe you can too. Believe in yourselves!
+
+I think this new attention on harassment policies and how easy they are to find is a great thing for our communities. [Elyse Anders wrote on Skepchick](http://skepchick.org/2012/05/sex-and-the-keynote/) about a negative experience she had at an event. The great takeaway from that is that despite the jerks who caused problems for her and another speaker, people came away with a lot of respect and appreciation for the event organizers because they had a policy and they enforced it when it was needed. We can't stop people from being horrible, but we can make it clear that we don't tolerate bad behavior and _that_ can make a huge difference.
+
+Other than typing a bunch of hot air, what are we doing about this here at More Than Men? We've started [a page where we will collect links to the harassment policies](http://www.morethanmen.org/harassment-policies/) for skeptic, atheist, and science conferences. Please check it out and share what links you can. I'm starting with the few I know of without being able to do any research today.
