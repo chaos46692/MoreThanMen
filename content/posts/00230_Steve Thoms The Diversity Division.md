@@ -5,7 +5,7 @@ author: [SomeCndnSkeptic]
 date: 2012-01-10T10:00:26-05:00
 ---
 
-![](http://www.morethanmen.org/wp-content/uploads/2012/01/60132_428691216628_750041628_5048940_2327283_n1-150x150.jpg)
+![](/uploads/2012/01/60132_428691216628_750041628_5048940_2327283_n1-150x150.jpg)
 
 ‘Diversity’ is one of those words that people can get tired of hearing very quickly: it makes them feel guilty and insensitive, and it almost always raises acrimonious discussion until it fizzles out, leaving bitter emotions in its wake. & A quick perusal of comment threads (such as [here](http://skepchick.org/2011/07/the-privilege-delusion/#comments), [here](http://scienceblogs.com/erv/2011/07/dawkins_coup_de_grace_in_vegas.php), and [here](http://skepchick.org/2011/06/ai-blinded-by-the-white/#comments)) might lead one to think that there is a small number of privileged minorities who have nothing better to do then to complain, insult, and derail conversations towards their pet project: complaining about a problem that was solved years ago.
 

@@ -8,7 +8,7 @@ date: 2012-03-01T08:20:52-05:00
 
 _[I asked [Natalie Reed](http://freethoughtblogs.com/nataliereed/) if I could publish this here because she makes a point I have been failing to make, and she makes it much better than I could have. It [originally appeared](http://freethoughtblogs.com/nataliereed/2012/02/20/thoughts-from-a-diversity-hire/) on February 20, 2012. And yes, she's our first non-white dude contributor, but [we're looking for more](http://www.morethanmen.org/2012/02/27/more-than-men-needs-more-than-men/).]_
 
-![](http://www.morethanmen.org/wp-content/uploads/2012/03/nataliereed.png)
+![](/uploads/2012/03/nataliereed.png)
 
 This post is not going to be another discussion of Loftus or his remarks. There’s not really any need to carry that any further, I feel comfortable with how this resolved and like there isn’t much left to be said. I also feel for the most part that his comments speak for themselves, and my colleagues at FTB have already done a great job of defending my worth and discussing why his diversity-hire comment was not okay and crossed the line.
 

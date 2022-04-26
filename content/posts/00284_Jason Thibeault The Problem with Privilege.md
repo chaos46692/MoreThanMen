@@ -5,7 +5,7 @@ author: [Jason Thibeault]
 date: 2012-01-17T10:00:16-05:00
 ---
 
-![](http://www.morethanmen.org/wp-content/uploads/2012/01/c403ad2296807115c42af3d0f94b8b81.jpeg)
+![](/uploads/2012/01/c403ad2296807115c42af3d0f94b8b81.jpeg)
 
 I am also a white male. That's right, I'm swinging pale pipe.
 

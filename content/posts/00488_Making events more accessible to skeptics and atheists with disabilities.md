@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-02-01T09:00:45-05:00
 ---
 
-![](http://www.morethanmen.org/wp-content/uploads/2012/01/disability-signs1.jpg)
+![](/uploads/2012/01/disability-signs1.jpg)
 
 [As we all know](http://en.wikipedia.org/wiki/Stephen_Hawking), the condition of one's body has little bearing on their mind and what they can contribute to our communities. As someone who helps organize a skeptical conference in Northern California I found myself thinking how event organizers can take some extra steps to ensure that we don't miss out on hearing any worthy voices in our cause. I asked for some input from skeptics and atheists with disabilities and have a few ideas myself. So, what can we do to make our events accessible to everyone?
 - Find venues where speakers and attendees don't have to climb stairs to participate. I've heard of an event when a presenter in a wheelchair was unable to reach the stage and had to speak from the floor -- where no one could see her. I imagine this could be disappointing for the audience as well as embarrassing for the speaker. Think of your space: are there rooms or facilities that can only be reached by using stairs, even just a few?

@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-02-20T09:29:46-05:00
 ---
 
-![I don't believe in God - or that drunk girls can be raped](http://www.morethanmen.org/wp-content/uploads/2012/02/136425631-150x150.jpg)
+![I don't believe in God - or that drunk girls can be raped](/uploads/2012/02/136425631-150x150.jpg)
 
 Bullshit.
 

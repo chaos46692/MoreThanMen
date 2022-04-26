@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-02-29T09:00:33-05:00
 ---
 
-<a href="http://sfatheistfilmfestival.org/">![Atheist Film Festival](http://www.morethanmen.org/wp-content/uploads/2012/02/AFFLogo.gif)</a>
+<a href="http://sfatheistfilmfestival.org/">![Atheist Film Festival](/uploads/2012/02/AFFLogo.gif)</a>
 
 Want the opportunity to share your cinematic vision with hundreds of other atheists, skeptics, and freethinkers on the big screen, and a chance to win $250? Every year, the  __[Atheist Film Festival](http://sfatheistfilmfestival.org/)__ in San Francisco (AFF) features a selection of provocative, engaging, thought-provoking, and/or hilarious short films_.& _Whether you’re an amateur filmmaker, pro, semi-pro, or never operated a camera other than your smart phone, they want to see what& _you_& can come up with!
 
@@ -16,4 +16,4 @@ Selected films will be screened at the festival on August 11th, 2012, and one gr
 _Not interested in submitting a film but still want to help out? [Download the flyer](http://sfatheistfilmfestival.org/wp-content/uploads/2012/02/AFF_SubmissionFlyer_Letter.pdf)& and post it on your campus, bring it to meetings with your local secular groups, leave copies at coffee shops where creative types hang out, or link to this post on Facebook, Twitter, Google +, etc. You can also consider becoming a [sponsor](http://sfatheistfilmfestival.org/?p=841). _Thanks for your support!__
 
 
-<a href="http://sfatheistfilmfestival.org/wp-content/uploads/2012/02/AFF_SubmissionFlyer_Letter.pdf">![](http://www.morethanmen.org/wp-content/uploads/2012/02/AFF_SubmissionFlyer.png)</a>
+<a href="http://sfatheistfilmfestival.org/wp-content/uploads/2012/02/AFF_SubmissionFlyer_Letter.pdf">![](/uploads/2012/02/AFF_SubmissionFlyer.png)</a>

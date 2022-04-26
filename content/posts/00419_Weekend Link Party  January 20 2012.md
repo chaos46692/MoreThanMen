@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-01-20T13:00:02-05:00
 ---
 
-![Andrew Becraft](http://www.morethanmen.org/wp-content/uploads/2012/01/2943766324_6e7a0a408e_m1.jpg)
+![Andrew Becraft](/uploads/2012/01/2943766324_6e7a0a408e_m1.jpg)
 
 - [FOGcon is a feminist-friendly literary science fiction convention](http://aqueductpress.blogspot.com/2012/01/fogcon-literary-feminist-friendly.html). And it's happening in my back yard at the end of March. Feminist nerds, unite!
 - [The Good Men Project shared our critique of them with their readers](http://goodmenproject.com/featured-content/patriarchy-messes-with-all-of-us/). The commentors there when nuts. Sasha is now a [hipster lady](http://www.pixlee.net/?p=55). And now you can share your awesomely stupid anti-diversity comments on a [Tumblr](http://lookhipsterlady.tumblr.com/)!

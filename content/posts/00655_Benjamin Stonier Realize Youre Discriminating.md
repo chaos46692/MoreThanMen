@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-02-23T09:00:19-05:00
 ---
 
-![](http://www.morethanmen.org/wp-content/uploads/2012/02/veritasvp41.png)
+![](/uploads/2012/02/veritasvp41.png)
 
 That’s just not true. I’m going to admit something right now. I’m a straight, white guy with a middle-class upbringing. I am also, irrevocably racist, sexist, homophobic, transphobic, ableist, and probably a host of other -ists and -phobics that you can toss at me. I’m like this because I’m a product of a society that is also racist, sexist, homophobic, transphobic, ableist, and all the others. I’ve been taught a certain view of normalcy, and as a result, I act with mannerisms that reflect this certain view. It’s not an attempt to insult; I’m not consciously discriminatory. But it’s still there.
 

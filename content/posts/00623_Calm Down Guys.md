@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-02-16T08:54:18-05:00
 ---
 
-![Crying man](http://www.morethanmen.org/wp-content/uploads/2012/02/crying_man_jpg_scaled_5001-150x150.jpg)
+![Crying man](/uploads/2012/02/crying_man_jpg_scaled_5001-150x150.jpg)
 
 Here's the thing: unless you start being an asshole I'm not trying to make you feel like a crappy person. We're all forced into this system and we have to reason our way out of it. Just like many of us reject the "common sense" arguments for religious belief and then we ask questions and gather information and draw a conclusion. Your average theist isn't stupid or evil, they just haven't done the work or had that "deconversion" moment. When you start kicking and screaming and throwing temper tantrums because someone has challenged your assumptions what does that make you? Does that make you a free-thinker? A skeptic?&  No, it makes you a tradition-bound and close-minded person who is being willfully ignorant. When you reject new information because it is inconvenient (or because maybe you just don't trust women, perhaps) _then_ you become an asshole.
 

@@ -7,7 +7,7 @@ date: 2012-01-25T09:00:36-05:00
 
 [This article was originally posted on [the author's blog](http://serhasacomplaint.com/2012/01/17/small-government/).]
 
-![](http://www.morethanmen.org/wp-content/uploads/2012/01/b15227906cc27654c86a9abc6555960d-150x150.jpg)
+![](/uploads/2012/01/b15227906cc27654c86a9abc6555960d-150x150.jpg)
 
 >_"A three-judge federal appeals panel ruled Friday that the state of Texas can move ahead with enforcement of a law requiring doctors to provide a sonogram to pregnant women before they get an abortion."_
 >  

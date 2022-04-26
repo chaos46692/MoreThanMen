@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-02-17T08:54:11-05:00
 ---
 
-![Bikini Kill Kathleen Hanna slut](http://www.morethanmen.org/wp-content/uploads/2012/02/Bikini+Kill+Kathleen+Hanna+slut-300x210.gif)
+![Bikini Kill Kathleen Hanna slut](/uploads/2012/02/Bikini+Kill+Kathleen+Hanna+slut-300x210.gif)
 
 Is there a difference, as some have told me there is, between saying a woman "dresses like a slut" and calling her a slut?
 

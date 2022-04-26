@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-02-27T09:00:54-05:00
 ---
 
-![](http://www.morethanmen.org/wp-content/uploads/2012/02/sprachsteuerung_alles_hoert_mein_megaphon201201141852111-300x180.jpg)
+![](/uploads/2012/02/sprachsteuerung_alles_hoert_mein_megaphon201201141852111-300x180.jpg)
 
 From the start there has been a lot of internal and external discussion of whether or not a project like More Than Men with it's country-club style membership can really serve a purpose in the movement for greater equality and diversity. Obviously I think it can, if only because there are some people who are receptive to the message but because of how society trains them they have a harder time hearing and understanding a minority voice. But straight, white, cis, able-bodied men can't be all there is anywhere. Now that we've got almost two months behind us here it's time to get closer to where I've wanted us to be all along.
 

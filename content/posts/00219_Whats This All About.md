@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-01-06T11:01:06-05:00
 ---
 
-![Even this dude thinks diversity is awesome](http://www.morethanmen.org/wp-content/uploads/2011/07/thumbsUp1-150x150.jpg)
+![Even this dude thinks diversity is awesome](/uploads/2011/07/thumbsUp1-150x150.jpg)
 
 It's come to our attention that there are some people who are a little confused by what the More Than Men project is all about. Perhaps because our original [About](http://www.morethanmen.org/about/) was not as clear as it should have been, perhaps because a group of white guys gathering together for something that's not horrible is such a novel concept, but somehow there are people who either have the wrong idea about us or who are skeptical about what we will actually be doing. So let me break it down.
 

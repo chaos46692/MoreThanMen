@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-01-05T08:29:09-05:00
 ---
 
-![Somehow not racist, according to dude-logic](http://www.morethanmen.org/wp-content/uploads/2012/01/obama-racist-latest1-150x150.jpg)
+![Somehow not racist, according to dude-logic](/uploads/2012/01/obama-racist-latest1-150x150.jpg)
 
 Greta Christina has written about the ["Yes, but..."](http://freethoughtblogs.com/greta/2011/12/29/why-yes-but-is-the-wrong-response-to-misogyny/) problem many of my fellow dudes have when listening to women talk about sexism and misogyny. I want to talk about a specific "Yes, but..." here: "Y_es, but that's not sexist because he/I/they don't hate __all__ women, just that one!_" The argument is that since the person slinging gendered slurs doesn't hate women as a class, they aren't a misogynist, therefore they're just a jerk and we we can shut up about this problem and go talk about how dumb Christians are again.
 

@@ -7,7 +7,7 @@ date: 2012-01-26T09:00:00-05:00
 
 [A slightly different version of this piece was posted on [Sasha's personal site](http://www.pixlee.net/?p=9). It is being reposted for this new audience.]
 
-![](http://www.morethanmen.org/wp-content/uploads/2012/01/computer-engineer-barbie1-150x150.jpg)
+![](/uploads/2012/01/computer-engineer-barbie1-150x150.jpg)
 
 
 1. __Women are nice to look at.__ They’re quite often pretty, they have an appealing shape, and our sexuality drives us to want to copulate with them.

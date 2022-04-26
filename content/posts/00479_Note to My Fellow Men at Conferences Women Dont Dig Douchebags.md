@@ -7,7 +7,7 @@ date: 2012-01-31T09:00:33-05:00
 
 [NOTE: This was originally published in July 2011.]
 
-![](http://www.morethanmen.org/wp-content/uploads/2012/01/44173339_11.jpg)
+![](/uploads/2012/01/44173339_11.jpg)
 
 First, some background  It seems the whole thing got started when Rebecca Watson of Skepchick [wrote about an encounter she had with a man in an elevator in Dublin.](http://furiouspurpose.me/2011/06/21/rebecca-watson-has-a-new-video/)&  Long story short: the guy propositioned her, and she said no; she also felt somewhat cornered seeing as how she was stuck, alone, in a metal cage with the guy.&  Apparently, there were a number of people who thought she handled the situation poorly (especially by blogging about it and noting the inappropriate behavior on the part of the man in question).
 

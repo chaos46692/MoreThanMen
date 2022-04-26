@@ -7,7 +7,7 @@ date: 2012-02-07T09:00:48-05:00
 
 [This piece was [originally published](http://freethoughtblogs.com/crommunist/2012/01/30/trying-to-tread-privilege/) on January 30, 2012]
 
-![](http://www.morethanmen.org/wp-content/uploads/2012/02/Ian1-150x140.jpg)
+![](/uploads/2012/02/Ian1-150x140.jpg)
 
 “Why do you say ‘white people’ have privilege? Not every white person has racial issues! Shouldn’t you say _some_& white people?”
 

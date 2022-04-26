@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-01-11T09:18:19-05:00
 ---
 
-![Photo: Mindaugas Danys](http://www.morethanmen.org/wp-content/uploads/2012/01/3766009204_8721a00dde_m1-150x150.jpg)
+![Photo: Mindaugas Danys](/uploads/2012/01/3766009204_8721a00dde_m1-150x150.jpg)
 
 Like many people I was raised in a milieu with more than the usual amount of sexism and racism. I often say "I got better", but the truth is, I'm _getting_ better. I strive to learn more every day. To be empathic and listen to the experiences of people who are different with me. I work to be a better, more accepting and less horrible person. I'm an able-bodied, cisgendered, straight, white man. I may be poor and fat, but I have a lot of privilege. I have the privilege given to me by society to be blind to the casual racism, sexism, ableism, and homophobia all around us.
 

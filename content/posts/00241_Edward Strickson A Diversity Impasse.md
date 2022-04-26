@@ -9,7 +9,7 @@ date: 2012-01-09T10:00:55-05:00
 
 
 
-![Edward Strickson](http://www.morethanmen.org/wp-content/uploads/2012/01/304165_10150433915058782_516643781_11189917_142140_n1-150x150.jpg)
+![Edward Strickson](/uploads/2012/01/304165_10150433915058782_516643781_11189917_142140_n1-150x150.jpg)
 
 In the recent past our society has been making incremental steps towards the universal acceptance of diversity and the equality of all flavours of humanity, whether it be gender, race, sexuality, blood type or the amount of hair on your knees.
 

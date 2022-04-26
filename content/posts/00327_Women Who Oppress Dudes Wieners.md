@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-01-13T10:00:54-05:00
 ---
 
-![The savior of men](http://www.morethanmen.org/wp-content/uploads/2012/01/1_dingjikerbo1.bmp)
+![The savior of men](/uploads/2012/01/1_dingjikerbo1.bmp)
 
 According to some dudes the whole "seduction community" is actually not, like you might at first think, a bunch of creepy not-technically-rapists - they're really [virtuous freedom fighters](http://www.feministcritics.org/blog/about/seduction-communitypickup-artists/), saving men and women from the evils of female privilege. You see, men are horribly oppressed when it comes to sex and dating. They need sex so, so bad and stupid women just refuse to give it to them when they ask! It's terribly shocking, I know. Luckily we have these dudes who tell us how we can [follow the lead of Slick Rick](http://www.youtube.com/watch?v=6hsOSC6RVhk) and finally all get our dicks wet!
 
@@ -25,7 +25,7 @@ So pick up "artists" use magic tricks to level the playing field. It seems to wo
 
 There are many problems with this belief system. First, it's wrong. Second, you're not entitled to shit from anyone. Third, you're basically saying that you are so foul and un-bangable that you have to trick people into having sex with you. "Seduction" advocates, though, claim that it works for them and us pesky feminists simply refuse to tell them how to get laid!
 
-![Girl Magnet](http://www.morethanmen.org/wp-content/uploads/2012/01/58967_1601943486674_1178697084_31702874_2477573_n1-300x225.jpg)
+![Girl Magnet](/uploads/2012/01/58967_1601943486674_1178697084_31702874_2477573_n1-300x225.jpg)
 
 Okay, it's not my job to tell you how to get laid. I'm a nice guy, though, and since you asked so nicely I will give you my own patented, fool-proof system for getting ladies to have sex with me:
 1. Meet a woman in a social setting.

@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-01-24T09:00:36-05:00
 ---
 
-![Diversity makes many things easier](http://www.morethanmen.org/wp-content/uploads/2012/01/whitechess.jpg)
+![Diversity makes many things easier](/uploads/2012/01/whitechess.jpg)
 
 One of the most often cited ways to encourage diversity within our communities is to promote diversity amongst the speakers we feature at our events. There has been a lot of high-profile success in this - TAM has been approaching 50/50 gender representation, for instance - but there still seem to be a lot of mostly-white, mostly-male speaker rosters and panels. One way that has been proposed for speakers to take action is [for white men to decline an invitation to speak at an event or on a panel that lacks diversity](http://www.good.is/post/why-white-men-should-refuse-to-be-on-panels-of-all-white-men/). Those of us who organize conferences and events have even more power to make a change because we're the one making invitations in the first place.
 

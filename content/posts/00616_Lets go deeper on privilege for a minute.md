@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-02-15T09:06:54-05:00
 ---
 
-![](http://www.morethanmen.org/wp-content/uploads/2012/02/intersectionality.png)
+![](/uploads/2012/02/intersectionality.png)
 
 Lets look at some of these categories and some of the groups (western) society recognizes with them:
 ### Sex and Gender

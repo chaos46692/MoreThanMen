@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-01-12T09:00:54-05:00
 ---
 
-![](http://www.morethanmen.org/wp-content/uploads/2012/01/tumblr_lxmy9qWGsJ1r23vax1-150x150.png)
+![](/uploads/2012/01/tumblr_lxmy9qWGsJ1r23vax1-150x150.png)
 
 Noted anti-racist writer (and decidedly white white-guy) Tim Wise has an excellent piece about the myth of "reverse racism", and I encourage you to[ read the whole thing](http://www.timwise.org/2002/06/honky-wanna-cracker-examining-the-myth-of-reverse-racism/). My favorite paragraph, though, is this one:
 

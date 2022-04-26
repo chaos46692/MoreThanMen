@@ -5,8 +5,8 @@ author: [Sasha]
 date: 2012-02-02T09:00:24-05:00
 ---
 
-![](http://www.morethanmen.org/wp-content/uploads/2012/02/richmondspectaclesrichman1-180x300.png)
-_"Just read your [guide to not being a misogynist](http://www.morethanmen.org/2012/01/26/sashas-brief-guide-to-not-being-a-creepy-misogynist/). I'm very interested in your views on privilege from here in England. It's interesting to see how hot you are at proclaiming white, male, heterosexual males to be privileged._
+![](/uploads/2012/02/richmondspectaclesrichman1-180x300.png)
+_"Just read your [guide to not being a misogynist]({{< ref "00436_Sashas Brief Guide to Not Being a Creepy Misogynist.md"  >}}). I'm very interested in your views on privilege from here in England. It's interesting to see how hot you are at proclaiming white, male, heterosexual males to be privileged._
 
 _"I agree to a certain extent, but domestically I feel that class, socio-economic, health and educational attainment are just as important. Therefore, in your mind I'm possibly one of those males who you may consider 'just don't get it'._
 

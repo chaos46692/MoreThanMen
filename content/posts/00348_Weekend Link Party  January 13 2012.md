@@ -5,7 +5,7 @@ author: [Sasha]
 date: 2012-01-13T13:00:43-05:00
 ---
 
-![Isn't my cat adorable](http://www.morethanmen.org/wp-content/uploads/2012/01/6656066807_c09cefd7fb_m1-150x150.jpg)
+![Isn't my cat adorable](/uploads/2012/01/6656066807_c09cefd7fb_m1-150x150.jpg)
 
 - [Looks like Canada ["fixed" it](http://www.theglobeandmail.com/news/politics/justice-minister-declares-all-same-sex-marriages-legal-and-valid/article2301691/), but why can something like this even happen? Oh, I know: hate + apathy.]
 - [There's this Women in Secularism conference happening in May](http://www.womeninsecularism.org/). I can't make it, but you should go if you can.

@@ -10,7 +10,7 @@ date: 2012-02-10T09:00:04-05:00
 *test*
 
 
-![Hoping that I don't sound like this.](http://www.morethanmen.org/wp-content/uploads/2012/02/if_i_say_i_m_a_feminist-203x300.jpg)
+![Hoping that I don't sound like this.](/uploads/2012/02/if_i_say_i_m_a_feminist-203x300.jpg)
 
 “Feminist” is a polarizing word.  You’ll generally see it used in one of two ways: as self-identification by people who consider themselves feminists, and as a pejorative by people who do not.
 
@@ -32,7 +32,7 @@ I still feel that I should use the label, as it helps to make feminism less tabo
 
 At the SSA conference last month, I chose to wear my bright green “THIS IS WHAT A FEMINIST LOOKS LIKE” t-shirt, bought years ago from a fundraiser for a battered women’s shelter.
 
-![I don't always wear t-shirts with slogans on them, but when I do I support equal treatment of women.](http://www.morethanmen.org/wp-content/uploads/2012/02/IMG_1714-300x225.jpg)
+![I don't always wear t-shirts with slogans on them, but when I do I support equal treatment of women.](/uploads/2012/02/IMG_1714-300x225.jpg)
 
 
 I’ll admit that I knew I wasn’t going out on a limb with this: I knew that there were many feminists among the population of young atheists and agnostics. It got positive reactions from feminist atheist bloggers [Jen McCreight](http://www.blaghag.com/) and [Greta Christina](http://gretachristina.typepad.com/greta_christinas_weblog/), and it turned out there were even a few other male feminists there as well.
