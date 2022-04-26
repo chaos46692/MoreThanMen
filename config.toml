@@ -1,4 +1,5 @@
-baseURL = "https://morethanmen.org"
+#baseURL = "https://morethanmen.org"
+baseURL = 'https://chaos46692.github.io/'
 languageCode = "en-us"
 title = "More than Men"
 theme = "ananke"
