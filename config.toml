@@ -36,7 +36,7 @@ resourceDir = "../resources"
 
 [params]
 #  favicon = "favicon.ico"
-#  site_logo = "/CTlogo.png"
+  site_logo = "/MTM.png"
   description = "Welcome to More than Men"
 #  facebook = ""
 #  twitter = "https://twitter.com/chaos46692"
