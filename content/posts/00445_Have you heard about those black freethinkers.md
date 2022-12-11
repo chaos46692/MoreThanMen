@@ -1,11 +1,12 @@
 ---
-title: "Have you heard about those black freethinkers"
+title: "Have you heard about those black freethinkers?"
 draft: false
 author: [Sasha]
 date: 2012-02-06T09:00:14-05:00
 ---
 
-![Carter G Woodson](/uploads/2012/02/carter-500x01-150x150.jpg)
+<a href="http://aahumanism.net/history/view/carter_g._woodson">![](http://www.morethanmen.org/wp-content/uploads/2012/02/carter-500x01-150x150.jpg)
+![](/uploads/2012/02/carter-500x01-150x150.jpg)
 
 Well, the truth is there is a long history of secularism and humanism in the African-American community and it's long past time that the rest of us took notice. There's also a way we can help the growing numbers of atheists and free-thinkers of color. It's call the [Day of Solidarity for Black Non-Believers](http://aahumanism.net/announcements/view/day_of_solidarity_for_black_non_believers) and I encourage you to help spread the word.
 

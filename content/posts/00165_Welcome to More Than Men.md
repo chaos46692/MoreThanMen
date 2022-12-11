@@ -7,7 +7,7 @@ date: 2012-01-02T11:55:34-05:00
 
 
 
-![](/uploads/2012/01/mtm-150x150.png)
+![](/uploads/020112_mtm.png)
 
 We live in a diverse world and I think we can all agree that any time a group’s makeup is less diverse than the world at large there are reasons for it. Here in the United States we have more diversity than most places, but when attending nerd events, atheist events, and skeptic events I keep finding myself in the majority. Why is that? I believe it is because something about those groups is making women and racial and sexual minorities feel like the group is Not For Them or are experiencing things that make them feel uncomfortable and unwelcome. I would like to change that.
 

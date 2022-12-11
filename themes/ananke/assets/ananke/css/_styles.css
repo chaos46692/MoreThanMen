@@ -18,3 +18,11 @@
 .nested-links a{
   overflow-wrap: break-word;
 }
+
+.justify {
+  text-align: justify;
+}
+
+.article {
+  max-width: 100%; 
+}

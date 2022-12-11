@@ -1,0 +1,18 @@
+---
+title: "We Need to Talk: Ridiculing the Trolls"
+draft: false
+author: [Sasha]
+date: 2012-03-09T09:51:59-05:00
+---
+
+![](/uploads/2012/03/angry-woman1-150x150.jpg)
+
+~~Ouch. Yesterday [Crommunist](https://freethoughtblogs.com/crommunist), who I admire and like, referred to my post about [International Men’s Day]({{< ref "00726_Im not a sexist but why isnt there an International Mens Day.md" >}}) as an example of [“woefully ignorant, knee-jerk reactions to misogyny”](https://freethoughtblogs.com/crommunist/2012/03/08/show-her-the-money/). I’m not gonna argue with him, but instead see if we can talk about things.~~ __[Crommunist has clarified. He was referring to the “Why isn’t there an International Men’s Day” question – not my post in reply – as woefully ignorant and kneejerk. We are, and always have been, all good.]__
+
+I often (okay, almost always) take a comedic/mocking tone when addressing sexists. Crommunist says he doesn't because he is sympathetic to the casually/ignorantly sexist guy. He says he held some of those beliefs back in the day and so he understands they are likely not bad guys at the core and can learn better. I think he's right. Many men hold sexist views because they haven't examined their privilege or really challenged those views. I was one of them for many years. I also believe that discussions of racism, sexist, antisemitism, homophobia, transphobia, and ableism are all part of the skeptical umbrella. I have been told by some (skeptically) famous people that they have no place in "scientific skepticism" despite the obvious fact that pseudoscience is used to support all of them. Someone is in denial and it's not me or Crommunist.
+
+I can certainly see the point that sarcasm, mockery, and cutting remarks don't really encourage fence-sitters to come over to our side. I can also see, however, the argument that mocking ridiculous or offensive positions can make it more socially unacceptable to hold those positions. Despite how much more work there is to be done in regards to gay rights, note that Rick Santorum and Kirk Cameron both cl;aim to have supportive gay friends. We've made homophobia unfashionable enough that even the homophobic deny their homophobia. I know that that culture of disdain for homophobia actually helped me question my hold-over beliefs from my religious upbringing.
+
+I think there's also the fact that going toe-to-toe with the horrendously vile people who are driving the sexism in our communities (and the world) is disheartening. I know I'm not the only one engaged in this work who weekly, sometimes even daily contemplates just flipping over the table and walking away from the fight to save our mental health. Cutting humor can help cope with that creeping despair and make what we do a little more bearable.
+
+__So, let's talk: Is sarcasm and furious rhetoric hurting or helping us win the hearts and minds of the good-but-clueless?__

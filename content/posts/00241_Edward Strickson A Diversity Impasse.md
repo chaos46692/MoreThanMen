@@ -1,5 +1,5 @@
 ---
-title: "Edward Strickson A Diversity Impasse"
+title: "Edward Strickson: A Diversity Impasse"
 draft: false
 author: [eddystrickson]
 date: 2012-01-09T10:00:55-05:00
@@ -7,9 +7,7 @@ date: 2012-01-09T10:00:55-05:00
 
 [Sasha here. One of the main points of More Than Men is to get regular guys talking about why diversity matters to them. Here's our first guest post making that happen.]
 
-
-
-![Edward Strickson](/uploads/2012/01/304165_10150433915058782_516643781_11189917_142140_n1-150x150.jpg)
+![](/uploads/2012/01/304165_10150433915058782_516643781_11189917_142140_n1-150x150)
 
 In the recent past our society has been making incremental steps towards the universal acceptance of diversity and the equality of all flavours of humanity, whether it be gender, race, sexuality, blood type or the amount of hair on your knees.
 
@@ -21,6 +19,5 @@ Take for example, any magazine rack; whether it be in a supermarket, newsagent o
 
 Frankly, I don’t know how this stuff is allowed to make it to publication without someone raising a skeptical eyebrow, and in place of its absence we need people to inform and critique places where this lack of thought is let to slide or God forbid, encouraged, because I don’t want to live in a world that discriminates against other people for being different, for society to work we need more than white men.
 
-Edward Strickson
-
+- Edward Strickson
 Eddy is an amateur writer living in Nottingham, England, probably not the home of Robin Hood, but definitely the home of Lord Byron, who’s arguably more interesting. He writes a somewhat skeptical daily blog at [jengajam.wordpress.com](http://jengajam.wordpress.com) to exercise his writing muscles and get impending thoughts out of his head without disturbing his friends and family, he also writes album reviews for [www.alterthepress.com](http://www.alterthepress.com) and as of yet unseen novels spreading messages of equality meshed into stories that are interesting enough to warrant writing 300 pages of. He is currently studying Biological Sciences at Nottingham Trent University where there is a happy diversity of all races and genders and one creationist.

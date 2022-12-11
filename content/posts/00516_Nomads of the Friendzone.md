@@ -5,17 +5,17 @@ author: [Sasha]
 date: 2012-02-03T09:21:14-05:00
 ---
 
-![The Friendzone (actual photo)](/uploads/2012/02/friendzone.jpg)
+[caption id="attachment_517" align="alignleft" width="200" caption="The Friendzone (actual photo)"]![](/uploads/2012/02/friendzone.jpg)
 
-A lot of guys, and all Nice Guys™, like to talk about the Friendzone, which is a desolate wasteland of no-sex that men are cast into by callous women who don't want to fuck them. It works like this: Dude likes a lady. I mean he REALLY likes her. She likes him, but she doesn't LIKE like him. He is banished to the Friendzone and his penis is dry forever after. What's worse, she keeps being friends with the guy who she has betrayed (by not sucking his dick) and has the audacity to date and copulate with OTHER DUDES who are obviously inferior to our hero.
+A lot of guys, and all Nice Guys&#153;, like to talk about the Friendzone, which is a desolate wasteland of no-sex that men are cast into by callous women who don't want to fuck them. It works like this: Dude likes a lady. I mean he REALLY likes her. She likes him, but she doesn't LIKE like him. He is banished to the Friendzone and his penis is dry forever after. What's worse, she keeps being friends with the guy who she has betrayed (by not sucking his dick) and has the audacity to date and copulate with OTHER DUDES who are obviously inferior to our hero.
 
-Okay, now you know how horrible the Friendzone is and how messed up it is that any woman would EVER do that to a Nice Guy™;. I'm done here, right?
+Okay, now you know how horrible the Friendzone is and how messed up it is that any woman would EVER do that to a Nice Guy&#153;. I'm done here, right?
 
 Actually, no, I'm not. The Friendzone is basically a myth and being friends with women is pretty awesome even when you don't stick your penis inside them. Here's why.
 
-NICE GUYS™ AREN'T AS NICE AS THEY CLAIM
+NICE GUYS&#153; AREN'T AS NICE AS THEY CLAIM
 
-Many, if not most, dudes who complain about how Nice Guys™ always end up in the Friendzone are seething with resentment. They feel like treating a woman well entitles them to tapping that ass. They get angry because they fall for a woman who doesn't feel the same way about them. If a woman pursues a guy after it's clear he doesn't feel the same way she's mocked. If a guy does it he's a poor, maligned Nice Guy™; who that mean bitch won't date. Think about that double standard. Don't participate in it and don't perpetuate it.
+Many, if not most, dudes who complain about how Nice Guys&#153; always end up in the Friendzone are seething with resentment. They feel like treating a woman well entitles them to tapping that ass. They get angry because they fall for a woman who doesn't feel the same way about them. If a woman pursues a guy after it's clear he doesn't feel the same way she's mocked. If a guy does it he's a poor, maligned Nice Guy&#153; who that mean bitch won't date. Think about that double standard. Don't participate in it and don't perpetuate it.
 WOMEN AREN'T PSYCHIC
 
 & Many guys who complain about the Friendzone spend a lot of time waiting for a woman to realize that her friend is TOTALLY the dude she wants to be boning. If you don't even ask her out, how the fuck is she supposed to know you have those feelings for her? Also? Complaining about being in the Friendzone doesn't count. It also makes you sound like a whiny little baby. (Yes, that IS ageist of me.)
@@ -33,12 +33,10 @@ IN CONCLUSION
 
 
 - Don't complain about the Friendzone. It just means someone likes you but doesn't LIKE like you. You have people you like but don't LIKE like. Please be a grown up about it.
-- Seething in a pit of resentment because the person you "chose" didn't choose you back isn't attractive OR "nice".
-- Chicks dig dudes who have healthy friendships with women.
-- Just because I like you, doesn't mean I want to bone you.
+	- Seething in a pit of resentment because the person you "chose" didn't choose you back isn't attractive OR "nice".
+	- Chicks dig dudes who have healthy friendships with women.
+	- Just because I like you, doesn't mean I want to bone you.
 
 Have a nice weekend, folks.
 
 - Sasha Pixlee
-
-& 

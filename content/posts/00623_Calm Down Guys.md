@@ -1,13 +1,13 @@
 ---
-title: "Calm Down Guys"
+title: "Calm Down, Guys"
 draft: false
 author: [Sasha]
 date: 2012-02-16T08:54:18-05:00
 ---
 
-![Crying man](/uploads/2012/02/crying_man_jpg_scaled_5001-150x150.jpg)
+![](/uploads/2012/02/crying_man_jpg_scaled_5001-150x150.jpg)
 
-Here's the thing: unless you start being an asshole I'm not trying to make you feel like a crappy person. We're all forced into this system and we have to reason our way out of it. Just like many of us reject the "common sense" arguments for religious belief and then we ask questions and gather information and draw a conclusion. Your average theist isn't stupid or evil, they just haven't done the work or had that "deconversion" moment. When you start kicking and screaming and throwing temper tantrums because someone has challenged your assumptions what does that make you? Does that make you a free-thinker? A skeptic?&  No, it makes you a tradition-bound and close-minded person who is being willfully ignorant. When you reject new information because it is inconvenient (or because maybe you just don't trust women, perhaps) _then_ you become an asshole.
+Here's the thing: unless you start being an asshole I'm not trying to make you feel like a crappy person. We're all forced into this system and we have to reason our way out of it. Just like many of us reject the "common sense" arguments for religious belief and then we ask questions and gather information and draw a conclusion. Your average theist isn't stupid or evil, they just haven't done the work or had that "deconversion" moment. When you start kicking and screaming and throwing temper tantrums because someone has challenged your assumptions what does that make you? Does that make you a free-thinker? A skeptic?  No, it makes you a tradition-bound and close-minded person who is being willfully ignorant. When you reject new information because it is inconvenient (or because maybe you just don't trust women, perhaps) _then_ you become an asshole.
 
 I am a student of history and what I see in our communities, especially online, reminds me of two things. In the early 20th century women marching for their right to vote were insulted, abused, and beaten to silence them. People who were comfortable with the status quo attempted to silence them through threats and force. When you attempt to shout down a woman who criticizes what you assume is "working just fine" you are not physically assaulting her but you're very obviously attempting to silence to. To make her and the other feminists go away so that you can stay in your traditional way of life. Is that how you see yourself? Is that how you want to be? How does that make you different from a homophobic Baptist preacher?
 

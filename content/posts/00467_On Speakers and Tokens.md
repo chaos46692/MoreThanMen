@@ -5,7 +5,8 @@ author: [Sasha]
 date: 2012-01-24T09:00:36-05:00
 ---
 
-![Diversity makes many things easier](/uploads/2012/01/whitechess.jpg)
+[caption id="attachment_469" align="alignleft" width="240" caption="Diversity makes many things easier."]
+![](/uploads/2012/01/whitechess.jpg)
 
 One of the most often cited ways to encourage diversity within our communities is to promote diversity amongst the speakers we feature at our events. There has been a lot of high-profile success in this - TAM has been approaching 50/50 gender representation, for instance - but there still seem to be a lot of mostly-white, mostly-male speaker rosters and panels. One way that has been proposed for speakers to take action is [for white men to decline an invitation to speak at an event or on a panel that lacks diversity](http://www.good.is/post/why-white-men-should-refuse-to-be-on-panels-of-all-white-men/). Those of us who organize conferences and events have even more power to make a change because we're the one making invitations in the first place.
 
@@ -18,9 +19,9 @@ Again I will repeat myself: there are lots of experienced, qualified, and entert
 So, how do you cast your net wider in search of diversity? Here are a few ideas:
 
 - __[Attend your local SkeptiCamp](http://skepticamp.org/wiki/Main_Page)__. Since this is an event where the attendees speak, they are often more diverse. See someone whose talk you like? Maybe they have other things to talk about.
-- __Consult the faculty of your local colleges and universities__. Academia is often very diverse. Professors are good at giving talks. They are usually excited to talk to a receptive audience. They almost always care passionately about spreading interest in their field.
-- __Consult a pro-diversity speaker registry__. In the UK there is [She Talks!](http://ukshetalks.com/) and Australia has [No Chicks No Excuses](http://nochicksnoexcuses.com.au/) for rationalist woman speakers.
-- __Invite a blogger whose work you admire__. These days it seems that most people who speak at our events also have blogs. Maybe there is someone who blogs but doesn't speak all that often that you can "discover"?
+	- __Consult the faculty of your local colleges and universities__. Academia is often very diverse. Professors are good at giving talks. They are usually excited to talk to a receptive audience. They almost always care passionately about spreading interest in their field.
+	- __Consult a pro-diversity speaker registry__. In the UK there is [She Talks!](http://ukshetalks.com/) and Australia has [No Chicks No Excuses](http://nochicksnoexcuses.com.au/) for rationalist woman speakers.
+	- __Invite a blogger whose work you admire__. These days it seems that most people who speak at our events also have blogs. Maybe there is someone who blogs but doesn't speak all that often that you can "discover"?
 
 So there you go. Just a few ideas for you to consider as you cast your net. Have you got suggestions of your own? Who are you favorite non-white or non-male speakers? Does anyone want to make me super happy and make a She Talks!-style registry for the US that includes all under-represented groups?
 

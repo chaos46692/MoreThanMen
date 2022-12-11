@@ -1,9 +1,10 @@
 ---
-title: "Remember when we said Help Wanted"
+title: 'Remember when we said "Help Wanted"?'
 draft: false
 author: [Sasha]
 date: 2012-02-21T09:00:56-05:00
 ---
+
 
 ![](/uploads/2012/02/Help-Wanted1.jpg)
 
@@ -12,3 +13,5 @@ Don't worry about having something "original" to say (lord knows I'm not very or
 Also, still looking for a couple of staff writers who can post once or twice a week. I am a busy guy and I need help to make this place as awesome as it can be. [Get in touch](mailto:sasha@womenthinkingfree.org), please.
 
 ( If you really won't contribute, please at least spread this call far and wide to people who might.)
+
+Editorial note: This post has been preserved as part of the site archive, but submissions and applications are not open. 

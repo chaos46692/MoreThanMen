@@ -12,21 +12,21 @@ resourceDir = "../resources"
 [taxonomies]
    authors = "author"
    
-#[menu]
-#  [[menu.main]]
-#    identifier = "about"
-#    name = "About"
-#    url = "/about/"
-#
-#  [[menu.main]]
-#    identifier = "blog"
-#    name = "Blog"
-#    url = "/posts/"
-#
-#  [[menu.main]]
-#    identifier = "contact"
-#    name = "Contact"
-#    url = "/contact-me/"
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+
+  [[menu.main]]
+    identifier = "Harassment Policies"
+    name = "Harassment Policies"
+    url = "/harassment-policies"
 
 [languages]
   [languages.en]
@@ -41,18 +41,18 @@ resourceDir = "../resources"
 #  facebook = ""
 #  twitter = "https://twitter.com/chaos46692"
 #  instagram = "https://www.instagram.com/chaos46692/"
-  youtube = ""
-  github = ""
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  slack = ""
-  stackoverflow = ""
-  rss = ""
+#  youtube = ""
+#  github = ""
+#  gitlab = ""
+#  linkedin = ""
+#  mastodon = ""
+#  slack = ""
+#  stackoverflow = ""
+#  rss = ""
 #  tiktok = "https://www.tiktok.com/@chaos46692"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-white"
-  cover_dimming_class = "bg-light-blue"
+  cover_dimming_class = "bg-white-10"
   featured_image = "/images/mtmlogowhite.png"
   recent_posts_number = 12
   omit_header_text = true

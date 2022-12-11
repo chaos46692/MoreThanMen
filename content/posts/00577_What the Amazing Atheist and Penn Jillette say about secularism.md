@@ -1,13 +1,13 @@
 ---
-title: "What the Amazing Atheist and Penn Jillette say about secularism"
+title: 'hat the "Amazing Atheist" and Penn Jillette say about secularism'
 draft: false
 author: [Sasha]
 date: 2012-02-09T08:46:18-05:00
 ---
 
-![Unfit for civilization.](/uploads/2012/02/humangarbage-150x150.jpg)
+[caption id="attachment_580" align="alignleft" width="150" caption="Unfit for civilization."] ![](/uploads/2012/02/humangarbage-150x150.jpg)
 
-In the last day much has been&  said about "The Amazing Atheist", most notably (from my chair) by [Jen McCreight](http://freethoughtblogs.com/blaghag/2012/02/scratch-the-amazing-atheist-off-your-list-too/), [Greg Laden](http://freethoughtblogs.com/xblog/2012/02/08/time-to-shut-down-the-amazing-atheist/), and [PZ Myers](http://freethoughtblogs.com/pharyngula/2012/02/08/the-not-so-amazing-atheist-self-immolates/). Until this morning I didn't&  intend to address it in this space until reading the comment's on PZ's piece filled me with such a dark, bleak sense of despair about the state of humanity and the atheist/skeptical community. So, I'd like to start out by stating, very clearly, exactly how I feel about this "Amazing" guy and his defenders.
+In the last day much has been  said about "The Amazing Atheist", most notably (from my chair) by [Jen McCreight](http://freethoughtblogs.com/blaghag/2012/02/scratch-the-amazing-atheist-off-your-list-too/), [Greg Laden](http://freethoughtblogs.com/xblog/2012/02/08/time-to-shut-down-the-amazing-atheist/), and [PZ Myers](http://freethoughtblogs.com/pharyngula/2012/02/08/the-not-so-amazing-atheist-self-immolates/). Until this morning I didn't  intend to address it in this space until reading the comment's on PZ's piece filled me with such a dark, bleak sense of despair about the state of humanity and the atheist/skeptical community. So, I'd like to start out by stating, very clearly, exactly how I feel about this "Amazing" guy and his defenders.
 
 #The "Amazing Atheist" is a despicable piece of human garbage. I feel the same way about anyone who raises a single word in his defense.
 
@@ -15,7 +15,7 @@ Okay. Was that clear enough for you? I hope so.
 
 Why bother making a post just to make an _ad hominem_ attack against someone? (Because, yes, that was an a_d hominem_. I know that and I did it intentionally because, you see, he is not quite human, but is mostly garbage.) I'm writing this because of how it ties in to another recent controversy, one that [Jen McCreight broke](http://freethoughtblogs.com/blaghag/2012/02/women-who-dont-amuse-penn-jilette-are-cunts/) and that people have started calling "Cunt-gate." I call it "being unsurprised by Penn Jillette being who he has always been."
 
-![This is who the world thinks we are.](/uploads/2012/02/penn_jillette-20111-150x150.jpg)
+[caption id="attachment_583" align="alignright" width="150" caption="This is who the world thinks we are."]![](/uploads/2012/02/penn_jillette-20111-150x150.jpg)
 
 See, that's the thing. Both Jillette and TAA have long, long histories of being assholes with retrograde, bitter views of women. They still had followings. Big ones. Every year at TAM crowds of skeptics cough up money to see Penn &amp; Teller perform. Despite everyone being able to hear what Penn says and how he behaves. TA has hundreds of thousands of views on his YouTube videos, despite everyone being able to hear what he says and how he behaves.
 

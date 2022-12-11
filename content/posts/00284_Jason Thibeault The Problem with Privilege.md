@@ -5,7 +5,7 @@ author: [Jason Thibeault]
 date: 2012-01-17T10:00:16-05:00
 ---
 
-![](/uploads/2012/01/c403ad2296807115c42af3d0f94b8b81.jpeg)
+![](http://www.morethanmen.org/wp-content/uploads/2012/01/c403ad2296807115c42af3d0f94b8b81.jpeg)
 
 I am also a white male. That's right, I'm swinging pale pipe.
 
@@ -27,5 +27,5 @@ In every one of the movements in which I'm a participant, we honestly and truly 
 
 If you have a position of privilege (and I know many of my blogging readers are both white and male), there's something you can do to combat the disparity inherent in these conversations. Point it out when you see arguments from privilege, unapologetically and as pointedly as you can. Own when you yourself have taken advantage of privilege, and be aware that you might have done so completely unintentionally. Take responsibility when this happens, and do what you can to limit the damage -- especially if that damage could [potentially silence a necessary voice](http://almostdiamonds.blogspot.com/2011/06/i-do-this-why.html) without whom these discussions would be significantly poorer. It's incumbent upon you, readers, to change. Yours is the only set of actions you can direct with 100% confidence.
 
-
+--
 Jason Thibeault works in the Canadian computer industry, toiling away at his "day" job which rarely limits itself to daylight hours, and occasionally providing freelance tech support in exchange for cold hard cash on the side. In his spare time, he is a blogger, a video game addict, and very, very opinionated. Alhough he's started and unceremoniously dropped more short-lived writing projects prior to that than he can remember, he has been writing continuously on [his blog](http://freethoughtblogs.com/lousycanuck/) since 2008.

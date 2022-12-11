@@ -1,21 +1,18 @@
 ---
-title: "00448_Stephen Robinson Small Government�"
+title: "Stephen Robinson: Small Government..."
 draft: false
 author: [Sasha]
 date: 2012-01-25T09:00:36-05:00
 ---
 
-[This article was originally posted on [the author's blog](http://serhasacomplaint.com/2012/01/17/small-government/).]
+[This article was originally posted on t[he author's blog](http://serhasacomplaint.com/2012/01/17/small-government/).]
 
 ![](/uploads/2012/01/b15227906cc27654c86a9abc6555960d-150x150.jpg)
+> _"A three-judge federal appeals panel ruled Friday that the state of Texas can move ahead with enforcement of a law requiring doctors to provide a sonogram to pregnant women before they get an abortion."_
 
->_"A three-judge federal appeals panel ruled Friday that the state of Texas can move ahead with enforcement of a law requiring doctors to provide a sonogram to pregnant women before they get an abortion."_
->  
->  _"As written, the law would require women seeking an abortion in Texas to view a picture of the embryo or fetus and hear a description of its development before having the procedure."_
+> _"As written, the law would require women seeking an abortion in Texas to view a picture of the embryo or fetus and hear a description of its development before having the procedure."_
 
 This is horrific. The most benign interpretation of the law is that it infantilizes women, who it deems too stupid to realize what a fetus has the potential to become. “Oh, wait, it’s like a future version of me conceived through the fertilization of an egg by sperm — to be exact, a developing mammal after the embryonic stage but before birth? See, I thought it was one of those chestburster things from _Alien_. My friend Mabel has seen all the movies. She’s real excited about the prequel that’s coming out. Anyway, she told me that I’d want to get that taken care of but now that I see this picture and everything. Well, thanks for straightening me out. Do you validate parking, by the way?”
-
-<iframe src="http://www.youtube.com/embed/JehjqlzXwIQ" frameborder="0" width="299" height="152"></iframe>
 
 However, the comments from judges who have ruled on the case only reinforce that the law is intended as federally mandated coercion intended to prevent women from having an abortion.
 
@@ -31,13 +28,9 @@ _“Oh, la di dah, I guess I won’t buy that Coach bag and instead devote the n
 
 If the government believes this type of psychological torture is appropriate in order to prevent people from doing things that are otherwise legal, I would propose a similar law requiring potential gun owners to watch news reports of children who died because of guns in the home.
 
-{{< youtube MIMFy9LQo98 >}}
-{{< youtube QVD_xlketKU >}}
-<!--
-<iframe src="http://www.youtube.com/embed/MIMFy9LQo98" frameborder="0" width="299" height="152"></iframe>
+{{< youtube id="MIMFy9LQo98" title="53 guns found in home where girl, 6, shot and killed" >}}
 
-<iframe src="http://www.youtube.com/embed/QVD_xlketKU" frameborder="0" width="300" height="233"></iframe>
--->
+{{< youtube id="QVD_xlketKU" title="Video Unavailable" >}}
 
 Texas governor Rick Perry praised the new law, saying, “We will continue to fight any attempt to limit our state’s laws that value and protect the unborn.”
 

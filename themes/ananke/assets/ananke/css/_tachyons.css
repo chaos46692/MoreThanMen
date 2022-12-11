@@ -92,3 +92,8 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /* @import 'tachyons/src/_debug'; */
+
+.measure-xwide {
+
+    max-width: 40em;
+  }
