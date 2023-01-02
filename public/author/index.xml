@@ -2,98 +2,152 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on More than Men</title>
-    <link>https://chaos46692.github.io/author/</link>
+    <link>https://morethanmen.org/author/</link>
     <description>Recent content in Author on More than Men</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chaos46692.github.io/author/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Carl</title>
-      <link>https://chaos46692.github.io/author/carl/</link>
-      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chaos46692.github.io/author/carl/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 26 Aug 2014 19:37:43 -0500</lastBuildDate><atom:link href="https://morethanmen.org/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sasha</title>
-      <link>https://chaos46692.github.io/author/sasha/</link>
-      <pubDate>Wed, 30 May 2012 14:01:36 -0500</pubDate>
+      <link>https://morethanmen.org/author/sasha/</link>
+      <pubDate>Tue, 26 Aug 2014 19:37:43 -0500</pubDate>
       
-      <guid>https://chaos46692.github.io/author/sasha/</guid>
+      <guid>https://morethanmen.org/author/sasha/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jason Thibeault</title>
-      <link>https://chaos46692.github.io/author/jason-thibeault/</link>
-      <pubDate>Mon, 28 May 2012 09:00:01 -0500</pubDate>
+      <title>Brian Anders</title>
+      <link>https://morethanmen.org/author/brian-anders/</link>
+      <pubDate>Fri, 13 Jun 2014 11:00:34 -0500</pubDate>
       
-      <guid>https://chaos46692.github.io/author/jason-thibeault/</guid>
+      <guid>https://morethanmen.org/author/brian-anders/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Anthroslug</title>
-      <link>https://chaos46692.github.io/author/anthroslug/</link>
-      <pubDate>Mon, 21 May 2012 09:15:14 -0500</pubDate>
+      <title>Carl</title>
+      <link>https://morethanmen.org/author/carl/</link>
+      <pubDate>Fri, 11 Oct 2013 11:38:44 -0500</pubDate>
       
-      <guid>https://chaos46692.github.io/author/anthroslug/</guid>
+      <guid>https://morethanmen.org/author/carl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpokesGay</title>
+      <link>https://morethanmen.org/author/spokesgay/</link>
+      <pubDate>Sun, 22 Sep 2013 13:31:06 -0500</pubDate>
+      
+      <guid>https://morethanmen.org/author/spokesgay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timothy LeGower</title>
+      <link>https://morethanmen.org/author/timothy-legower/</link>
+      <pubDate>Thu, 13 Sep 2012 08:42:18 -0500</pubDate>
+      
+      <guid>https://morethanmen.org/author/timothy-legower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott</title>
+      <link>https://morethanmen.org/author/scott/</link>
+      <pubDate>Mon, 27 Aug 2012 08:54:57 -0500</pubDate>
+      
+      <guid>https://morethanmen.org/author/scott/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tesla&#39;s Butler</title>
-      <link>https://chaos46692.github.io/author/teslas-butler/</link>
-      <pubDate>Mon, 14 May 2012 09:13:34 -0500</pubDate>
+      <link>https://morethanmen.org/author/teslas-butler/</link>
+      <pubDate>Wed, 22 Aug 2012 08:42:48 -0500</pubDate>
       
-      <guid>https://chaos46692.github.io/author/teslas-butler/</guid>
+      <guid>https://morethanmen.org/author/teslas-butler/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Windows</title>
-      <link>https://chaos46692.github.io/author/windows/</link>
-      <pubDate>Mon, 07 May 2012 09:00:47 -0500</pubDate>
+      <title>Topher</title>
+      <link>https://morethanmen.org/author/topher/</link>
+      <pubDate>Mon, 30 Jul 2012 09:00:19 -0500</pubDate>
       
-      <guid>https://chaos46692.github.io/author/windows/</guid>
+      <guid>https://morethanmen.org/author/topher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matt</title>
-      <link>https://chaos46692.github.io/author/matt/</link>
-      <pubDate>Wed, 11 Apr 2012 09:00:14 -0500</pubDate>
+      <link>https://morethanmen.org/author/matt/</link>
+      <pubDate>Mon, 16 Jul 2012 09:00:24 -0500</pubDate>
       
-      <guid>https://chaos46692.github.io/author/matt/</guid>
+      <guid>https://morethanmen.org/author/matt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeke Russell</title>
+      <link>https://morethanmen.org/author/zeke-russell/</link>
+      <pubDate>Mon, 04 Jun 2012 09:09:50 -0500</pubDate>
+      
+      <guid>https://morethanmen.org/author/zeke-russell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Thibeault</title>
+      <link>https://morethanmen.org/author/jason-thibeault/</link>
+      <pubDate>Mon, 28 May 2012 09:00:01 -0500</pubDate>
+      
+      <guid>https://morethanmen.org/author/jason-thibeault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anthroslug</title>
+      <link>https://morethanmen.org/author/anthroslug/</link>
+      <pubDate>Mon, 21 May 2012 09:15:14 -0500</pubDate>
+      
+      <guid>https://morethanmen.org/author/anthroslug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://morethanmen.org/author/windows/</link>
+      <pubDate>Mon, 07 May 2012 09:00:47 -0500</pubDate>
+      
+      <guid>https://morethanmen.org/author/windows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kaoru Negisa</title>
-      <link>https://chaos46692.github.io/author/kaoru-negisa/</link>
+      <link>https://morethanmen.org/author/kaoru-negisa/</link>
       <pubDate>Tue, 14 Feb 2012 09:00:25 -0500</pubDate>
       
-      <guid>https://chaos46692.github.io/author/kaoru-negisa/</guid>
+      <guid>https://morethanmen.org/author/kaoru-negisa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SomeCndnSkeptic</title>
-      <link>https://chaos46692.github.io/author/somecndnskeptic/</link>
+      <link>https://morethanmen.org/author/somecndnskeptic/</link>
       <pubDate>Tue, 10 Jan 2012 10:00:26 -0500</pubDate>
       
-      <guid>https://chaos46692.github.io/author/somecndnskeptic/</guid>
+      <guid>https://morethanmen.org/author/somecndnskeptic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eddystrickson</title>
-      <link>https://chaos46692.github.io/author/eddystrickson/</link>
+      <link>https://morethanmen.org/author/eddystrickson/</link>
       <pubDate>Mon, 09 Jan 2012 10:00:55 -0500</pubDate>
       
-      <guid>https://chaos46692.github.io/author/eddystrickson/</guid>
+      <guid>https://morethanmen.org/author/eddystrickson/</guid>
       <description></description>
     </item>
     

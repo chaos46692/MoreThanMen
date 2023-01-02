@@ -5,7 +5,9 @@ author: [Carl]
 date: 2013-05-28T09:27:12-05:00
 ---
 
-{{< tweet user="DaylightAtheism" id="336508125542744066" >}}
+
+[To put it in skeptic terms, #ShutUpAndListen means "You lack evidence relevant to this problem, so learn from those who have it."](https://twitter.com/DaylightAtheism/status/336508125542744066)
+
 
 So first off let's address the elephant in the room. I simply cannot add anything to discussion of Ron Lindsay's opening remarks that holds a candle to what's been said by [Secular Women](http://www.secularwoman.org/Statement_of_Objection), [Dan Fincke](http://www.patheos.com/blogs/camelswithhammers/2013/05/feminism-civility-and-ron-lindsays-welcome-to-women-in-secularism/), [Adam Lee ](http://www.patheos.com/blogs/daylightatheism/2013/05/some-sadly-necessary-remarks-on-the-wiscfi-intro/)and a whole host of other people. I'm not even going to try because the more I think about it the more irritated I become about Dr. Lindsay's careless remarks and reaction to criticism. I'm simply not able to able to make a reasonable criticism will not turn into a giant "fuck you." The experiences of the last week have given me many reasons to reflect on the arc of my life over the past few decades and how exactly I got here. I've decided to write about the things that I've learned about life and myself over the past 20 or so years.
 

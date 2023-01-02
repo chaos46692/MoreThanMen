@@ -2,6 +2,7 @@
 title: "Contribute"
 draft: false
 author: [Carl]
+featured_image: '/images/mtmheader.png'
 date: 2010-12-11
 ---
 

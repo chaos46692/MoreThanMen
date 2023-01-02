@@ -1,6 +1,6 @@
 ---
 title: "Harassment Policies"
-featured_image: '/images/mtmlogowhite.png'
+featured_image: '/images/mtmheader.png'
 description: "Archive of More than Men"
 ---
 # Archive of More than Men 

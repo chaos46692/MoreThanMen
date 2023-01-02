@@ -1,5 +1,5 @@
-#baseURL = "https://morethanmen.org"
-baseURL = 'https://chaos46692.github.io/'
+baseURL = "https://morethanmen.org"
+#baseURL = 'https://chaos46692.github.io/'
 languageCode = "en-us"
 title = "More than Men"
 theme = "ananke"
@@ -7,7 +7,7 @@ theme = "ananke"
 #theme = "gohugo-theme-ananke"
 #themesDir = "../.."
 resourceDir = "../resources"
-#googleAnalytics = "UA-5215367-2"
+#googleAnalytics = "G-K89WP9NL0N"
 
 [taxonomies]
    authors = "author"
@@ -35,7 +35,7 @@ resourceDir = "../resources"
     contentDir = "content/"
 
 [params]
-#  favicon = "favicon.ico"
+  favicon = "fav.ico"
   site_logo = "/MTM.png"
   description = "Welcome to More than Men"
 #  facebook = ""
@@ -51,9 +51,9 @@ resourceDir = "../resources"
 #  rss = ""
 #  tiktok = "https://www.tiktok.com/@chaos46692"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-white"
+  background_color_class = "bg-light-blue"
   cover_dimming_class = "bg-white-10"
-  featured_image = "/images/mtmlogowhite.png"
+  featured_image = "/images/mtmheader.png"
   recent_posts_number = 12
   omit_header_text = true
   custom_css = ["css/custom.css"]

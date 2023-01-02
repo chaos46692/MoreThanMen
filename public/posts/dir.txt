@@ -1,0 +1,159 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 0CF3-A322
+
+ Directory of C:\Users\carlt\OneDrive\Documents\GitHub\MoreThanMen2\content\posts
+
+12/12/2022  08:31 AM    <DIR>          .
+12/12/2022  08:31 AM    <DIR>          ..
+08/01/2022  01:15 PM            24,580 .DS_Store
+06/20/2022  12:51 PM             2,351 00165_Welcome to More Than Men.md
+08/01/2022  12:50 PM             3,498 00182_Not a misogynist maybe just sexist.md
+07/29/2022  01:47 PM               935 00194_Weekend Link Party January 6 2012.md
+08/01/2022  12:50 PM             1,978 00219_Whats This All About.md
+07/29/2022  01:46 PM             8,648 00230_Steve Thoms The Diversity Division.md
+08/01/2022  12:50 PM             4,924 00241_Edward Strickson A Diversity Impasse.md
+12/11/2022  10:02 AM             4,408 00260_Microaggression or Did You Know Im Not Perfect.md
+08/01/2022  12:51 PM             1,498 00275_Is it okay to make fun of white men.md
+08/05/2022  11:16 AM             7,885 00284_Jason Thibeault The Problem with Privilege.md
+08/01/2022  12:51 PM             4,618 00313_What happened to the Good Men Project.md
+08/01/2022  12:51 PM             4,094 00327_Women Who Oppress Dudes Wieners.md
+08/01/2022  12:52 PM             2,068 00348_Weekend Link Party  January 13 2012.md
+12/11/2022  10:04 AM               964 00370_Greg Laden and Friends More Than Men Part 1.md
+12/11/2022  10:32 AM               727 00378_Greg Laden and Friends More Than Men Part 2.md
+12/11/2022  10:05 AM               804 00387_Greg Laden and Friends More Than Men Part 3.md
+06/23/2022  10:35 AM               271 00402_AtheistAthlete on Sexist Skeptics.md
+08/01/2022  12:53 PM            19,447 00408_Kaoru I Really Thought This was Satire.md
+08/01/2022  12:53 PM             2,388 00419_Weekend Link Party  January 20 2012.md
+08/01/2022  12:53 PM             7,022 00434_Its Not Going to Work How to Argue with Privilege.md
+08/01/2022  12:53 PM             5,305 00436_Sashas Brief Guide to Not Being a Creepy Misogynist.md
+08/01/2022  12:54 PM             2,128 00445_Have you heard about those black freethinkers.md
+08/01/2022  12:54 PM             5,683 00448_Stephen Robinson Small Government.md
+06/24/2022  10:31 AM             3,987 00467_On Speakers and Tokens.md
+08/01/2022  12:54 PM             6,692 00479_Note to My Fellow Men at Conferences Women Dont Dig Douchebags.md
+08/01/2022  12:54 PM             7,553 00481_Diversity in Skepticism One White Guys Perspective.md
+07/29/2022  01:41 PM             4,350 00488_Making events more accessible to skeptics and atheists with disabilities.md
+12/11/2022  10:17 AM             5,590 00498_Understanding the diversity of Privilege.md
+07/29/2022  01:40 PM             4,172 00516_Nomads of the Friendzone.md
+08/01/2022  12:58 PM               716 00542_Help Wanted.md
+08/01/2022  12:55 PM             6,766 00545_Crommunist Trying to tread privilege.md
+08/01/2022  12:56 PM            14,029 00552_I Cant Believe We Have to Cover This Again.md
+08/05/2022  10:57 AM             3,843 00577_What the Amazing Atheist and Penn Jillette say about secularism.md
+08/01/2022  12:56 PM             5,956 00595_Matt Foss Why Im a Male Feminist (And Why Our Movement Needs More of Us).md
+08/05/2022  10:57 AM             2,218 00608_What motivates a real man.md
+08/01/2022  12:56 PM             2,278 00616_Lets go deeper on privilege for a minute.md
+08/01/2022  12:57 PM             2,815 00623_Calm Down Guys.md
+08/01/2022  12:57 PM            14,493 00629_We Need to Talk Sluts & Whores.md
+08/01/2022  12:58 PM             2,768 00635_But Im an atheist.md
+07/06/2022  01:16 PM               592 00642_A Gentleman Does Not Tackle.md
+08/05/2022  10:58 AM               973 00648_Remember when we said Help Wanted.md
+07/07/2022  09:09 AM               632 00650_SkeptiCal 2012.md
+08/01/2022  12:59 PM             4,045 00655_Benjamin Stonier Realize Youre Discriminating.md
+12/11/2022  10:18 AM             1,517 00675_More Than Men needs more than men.md
+08/05/2022  10:58 AM             1,553 00681_If you are not taking sides you may be helping the bad guys.md
+08/01/2022  12:59 PM             2,046 00687_Submit your short films to the Atheist Film Festival.md
+08/05/2022  11:23 AM            15,056 00696_Natalie Reed Thoughts From A Diversity Hire.md
+12/11/2022  10:19 AM             1,578 00701_We Need to Talk Defaulting and Bias.md
+08/01/2022  01:00 PM             3,374 00708_Who gets to decide whats racist.md
+08/01/2022  01:00 PM             4,306 00720_Morgan Landis Looking past appearance.md
+08/05/2022  11:04 AM             2,081 00726_Im not a sexist but why isnt there an International Mens Day.md
+12/11/2022  10:20 AM             2,940 00737_We Need to Talk Ridiculing the Trolls.md
+12/11/2022  10:20 AM             1,036 00743_Busy busy.md
+08/01/2022  01:01 PM             1,354 00749_We Need to Talk Straw feminists and feminazis.md
+08/01/2022  01:01 PM             2,218 00757_Why dont we quit.md
+08/01/2022  01:03 PM             1,887 00758_I am an angry feminist.md
+08/01/2022  01:01 PM             4,111 00761_Anti choice anti woman and anti honesty atheists.md
+08/01/2022  01:02 PM             4,318 00765_David Inwood Gawking at Women.md
+12/11/2022  10:22 AM             4,490 00771_Google Qs Sluts & Whores Edition.md
+07/12/2022  09:08 AM             5,458 00791_5 Ways Skeptic Men Are Trained to Hate Women.md
+12/11/2022  10:22 AM             1,726 00804_Trans people need rights not objectification.md
+07/13/2022  10:36 AM             1,062 00809_We Need to Talk Harassment Policies.md
+07/13/2022  10:50 AM             2,441 00816_Public Bodies.md
+12/11/2022  10:24 AM             1,266 00823_We Need to Talk What pissed you off this week.md
+07/13/2022  10:45 AM            10,047 00832_The Death of Trayvon Martin and How Far We Have To Go.md
+08/05/2022  11:03 AM             3,297 00840_I just see people.md
+08/01/2022  01:03 PM               768 00849_We Need to Talk Can men be feminists.md
+07/18/2022  01:47 PM             2,633 00853_Im not a racist but why are there brown people in my game.md
+12/11/2022  10:24 AM            11,551 00867_The Friend ZoneLike the Twilight Zone but Less Real.md
+07/18/2022  01:56 PM               953 00873_We Need to Talk What do you get out of events.md
+07/18/2022  01:57 PM             3,014 00881_3 Simple Steps to a More Inclusive Skeptical Community.md
+08/01/2022  01:04 PM            13,543 00886_Conscience Meets Reality or How I Learned to Stop Worrying About Other Peoples Sex Lives.md
+07/21/2022  10:19 AM             3,840 00892_The Rampant Sexism within the USMA Corps of Cadets.md
+08/01/2022  01:04 PM               936 00898_We Need to Talk When do we speak up.md
+07/21/2022  10:26 AM             2,872 00902_Adam Yauch and the Beastie Boys made me a better person.md
+12/11/2022  10:25 AM               702 00905_We Need to Talk Role Models.md
+07/21/2022  10:30 AM             4,050 00911_Compassionate Skepticism.md
+12/11/2022  10:25 AM             5,421 00925_10 Dating Misogyny Warning Signs.md
+12/11/2022  10:26 AM               762 00949_We Need to Talk Old Fashioned Values.md
+07/21/2022  10:43 AM            11,593 00954_Gender Sex and Where They Dont Meet.md
+07/21/2022  10:25 AM             3,380 00957_Why I am a Male Feminist.md
+12/11/2022  10:26 AM             1,207 00971_We Need to Talk Where are we wasting our time.md
+07/22/2022  01:39 PM            11,250 00975_Making casual bigotry cost with minimal splash damage.md
+12/11/2022  10:31 AM             2,806 00982_Harassment policies are a good thing.md
+12/11/2022  11:06 AM             1,342 01000_We Need to Talk Harassment and hookups.md
+12/11/2022  11:07 AM             1,360 01004_Response to angry Lets Be Friends poem by male poet.md
+07/22/2022  01:46 PM             2,717 01011_Donate to SSA and get a sweet new nickname.md
+07/22/2022  01:55 PM             4,588 01030_Respect as it applies to anti harassment policies.md
+12/11/2022  11:06 AM               880 01050_Help us find harassment policies.md
+12/11/2022  11:08 AM             3,057 01062_We all live in an ocean of irrational prejudice.md
+07/22/2022  01:54 PM             5,238 01089_The Killer Messenger.md
+08/01/2022  01:07 PM             6,325 01128_Huey P Newton on gay and womens liberation.md
+08/01/2022  01:07 PM             7,335 01136_Misandry A Step by Step Guide.md
+08/01/2022  01:07 PM             1,636 01154_Creationists and anti feminist atheists have a lot in common.md
+07/25/2022  09:43 AM             2,064 01156_I think I understand where the antis are coming from on harassment.md
+08/05/2022  11:05 AM            13,813 01161_Misogyny in the Skeptical Movement Dont Feed the Trolls Panel from SkepchickCon 2012.md
+07/25/2022  09:52 AM             3,762 01184_Skeptics and atheists are mostly horrible at comedy.md
+07/25/2022  09:54 AM             5,946 01199_A lesson on shitlords from my local news.md
+07/25/2022  09:56 AM             2,144 01210_Nine Months Of Mental Labor.md
+07/25/2022  09:57 AM             2,996 01217_It could happen to you.md
+08/01/2022  01:08 PM             4,264 01222_You call it a controversy I call it denialism.md
+08/01/2022  01:09 PM             4,301 01230_Theres no shame in being a male feminist.md
+07/26/2022  09:28 AM             1,336 01246_Dear Secular Skeptic.md
+07/26/2022  09:32 AM             8,504 01268_You never get a second chance.md
+07/26/2022  09:33 AM             2,025 01270_Speaking out against hate.md
+07/26/2022  09:35 AM             3,935 01293_Rape Culture and Skepticism.md
+12/11/2022  11:09 AM             2,854 01304_Ordinary men speaking out against misogyny.md
+08/05/2022  11:05 AM             3,375 01321_Surly Amy Davis Roth does more than her share.md
+08/05/2022  11:06 AM             2,287 01329_Coffee Loving Skeptic Lays Bare the Intellectual Dishonesty of Misogynist Skeptics.md
+07/26/2022  09:43 AM             3,971 01340_Patriarchs.md
+07/26/2022  09:44 AM               155 01348_Hey White Guys.md
+12/11/2022  11:10 AM             6,760 01354_A call for revolutionary action.md
+07/27/2022  09:02 AM             2,616 01365_The Trouble With Biotruth.md
+12/11/2022  11:10 AM             2,588 01374_What Atheism Plus means to me.md
+07/27/2022  09:05 AM             3,139 01377_How to Suppress Womens Writing.md
+07/27/2022  09:07 AM             2,570 01383_Haters gonna lose.md
+07/27/2022  09:08 AM             2,691 01392_Things I Have Learned How to NOT recruit male allies.md
+07/27/2022  09:11 AM             6,848 01397_DragonCon PSA.md
+07/27/2022  09:12 AM             1,385 01401_You should go to Women in Secularism 2.md
+07/27/2022  09:13 AM             5,360 01407_The more things change.md
+07/27/2022  09:15 AM             3,176 01436_Whats a guy got to do to be a misogynist.md
+07/28/2022  08:55 AM             3,022 01448_The Republicans just spent $1 billion to teach us about diversity.md
+07/28/2022  09:05 AM            29,614 01458_Ana Mardoll How To Be A (Male) Ally.md
+12/11/2022  11:11 AM             2,559 01470_Democracy is for bullies.md
+08/01/2022  01:12 PM             2,640 01494_When you imagine an internet misogynist you might picture me.md
+12/11/2022  11:13 AM             1,334 01520_From Sasha A change in leadership.md
+08/01/2022  01:12 PM             2,408 01558_Stay at home dude.md
+08/01/2022  01:12 PM             1,034 01586_Of COURSE most atheists are decent people.md
+12/11/2022  12:36 PM             5,255 01610_What I have learned from the women in my life.md
+07/28/2022  09:23 AM             3,707 01651_Cowardice and leadership.md
+08/01/2022  01:13 PM             2,841 01665_You might think you dont have an accent but youre wrong.md
+07/29/2022  12:56 PM             3,948 01672_Gays Dont Do That.md
+07/29/2022  12:57 PM               397 01679_Your Peaches Are Free not Freeze.md
+07/29/2022  01:00 PM             7,452 01681_Mild Mannered Milquetoasts.md
+07/29/2022  01:02 PM             3,455 01690_DJ and Me.md
+08/01/2022  01:13 PM             4,469 01709_NPR The bucks stop here.md
+07/29/2022  01:05 PM             2,964 01714_Fellow White People Were having the wrong conversation about Miley Robin and the VMAs.md
+07/29/2022  01:08 PM             6,866 01718_Last Night.md
+07/29/2022  01:10 PM               485 01748_Go rub your face in this inhumanity.md
+07/29/2022  01:11 PM             2,169 01754_An Open Letter to Hugo Schwyzer.md
+08/01/2022  01:14 PM             2,705 01775_Facebook doesnt care if you die.md
+07/29/2022  01:16 PM             3,877 01783_The privilege of being surprised.md
+08/01/2022  01:14 PM             3,886 01799_American Atheists new billboards are callous arrogant and not factually accurate.md
+12/11/2022  11:13 AM             4,098 01809_A statement on womens bodily autonomy and the morally bankrupt cowards who consider it up for debate.md
+08/01/2022  01:15 PM             6,615 01817_Feminist Princesses FUCK YEAH.md
+12/11/2022  11:19 AM             3,686 01833_WTF Hollywood Youre better than that.md
+07/29/2022  01:32 PM             3,183 01842_Who could ask for anything more.md
+07/29/2022  01:35 PM             2,909 01848_Yes all men are potential rapists.md
+12/11/2022  12:45 PM               293 contribute.md
+12/12/2022  08:31 AM                 0 dir.txt
+             150 File(s)        628,349 bytes
+               2 Dir(s)  788,920,360,960 bytes free
