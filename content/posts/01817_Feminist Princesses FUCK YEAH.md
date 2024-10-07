@@ -5,7 +5,7 @@ author: [Brian Anders]
 date: 2014-04-17T11:00:38-05:00
 ---
 
-![](/uploads/2014/04/bug-7528.jpg.jpg)
+![](/uploads/2014/04/bug-7528.jpg)
 
 Being between jobs, I spend a lot of time trying to keep myself busy during the day.  I tend to do a lot of chores and small projects that have gone neglected.  Over the last 2 months, the small projects have led several afternoon shopping runs.  During my shopping runs, I tend to swing through the toy section and see about something small for the kids.
 

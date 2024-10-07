@@ -2,30 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jason Thibeault on More than Men</title>
-    <link>https://morethanmen.org/author/jason-thibeault/</link>
+    <link>http://localhost:1313/author/jason-thibeault/</link>
     <description>Recent content in Jason Thibeault on More than Men</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 28 May 2012 09:00:01 -0500</lastBuildDate><atom:link href="https://morethanmen.org/author/jason-thibeault/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 May 2012 09:00:01 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/jason-thibeault/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making casual bigotry cost, with minimal splash damage</title>
-      <link>https://morethanmen.org/posts/00975_making-casual-bigotry-cost-with-minimal-splash-damage/</link>
+      <link>http://localhost:1313/posts/00975_making-casual-bigotry-cost-with-minimal-splash-damage/</link>
       <pubDate>Mon, 28 May 2012 09:00:01 -0500</pubDate>
-      
-      <guid>https://morethanmen.org/posts/00975_making-casual-bigotry-cost-with-minimal-splash-damage/</guid>
-      <description>[caption id=&amp;ldquo;attachment_978&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;253&amp;rdquo; caption=&amp;ldquo;Avoiding messes makes you adorable.&amp;quot;]In real life, I can be hot-headed. I can speak before thinking, and sometimes this involves a notable lack of decorum. That sometimes bleeds through onto my internet dealings, but I do make an effort to keep that to a minimum.
-I am also very intolerant of intolerance and bigotry — I really hope that fact bleeds through, because it’s pretty much at the core of my character.</description>
+      <guid>http://localhost:1313/posts/00975_making-casual-bigotry-cost-with-minimal-splash-damage/</guid>
+      <description>&lt;p&gt;[caption id=&amp;ldquo;attachment_978&amp;rdquo; align=&amp;ldquo;alignleft&amp;rdquo; width=&amp;ldquo;253&amp;rdquo; caption=&amp;ldquo;Avoiding messes makes you adorable.&amp;rdquo;]&lt;img src=&#34;http://localhost:1313/uploads/2012/05/![](/uploads/2012/03/Smurfette-150x150.jpg)&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In real life, I can be hot-headed. I can speak before thinking, and sometimes this involves a notable lack of decorum. That sometimes bleeds through onto my internet dealings, but I do make an effort to keep that to a minimum.&lt;/p&gt;&#xA;&lt;p&gt;I am also very intolerant of intolerance and bigotry — I really hope that fact bleeds through, because it’s pretty much at the core of my character. I’ve dressed down co-workers and acquaintances for ridiculous bits of bigotry in the past, even at potential personal cost. Two specific incidents spring to mind immediately: “that’s so gay!” used to refer to something the woman didn’t like, and “what does WIFE stand for? Washing, ironing, fucking, et cetera!” from a friend’s newly-introduced male fiancee. In both cases, I tried to register disapproval in such a way that it was both about their words being unacceptable generally, and because I was personally offended. In the latter case, my friend — let’s call her Laura, which is neither her name nor initial — and others were present, and she did not chime in, so the encounter ended effectively immediately after I registered my disapproval. The conversation moved on from there.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Jason Thibeault The Problem with Privilege</title>
-      <link>https://morethanmen.org/posts/00284_jason-thibeault-the-problem-with-privilege/</link>
+      <link>http://localhost:1313/posts/00284_jason-thibeault-the-problem-with-privilege/</link>
       <pubDate>Tue, 17 Jan 2012 10:00:16 -0500</pubDate>
-      
-      <guid>https://morethanmen.org/posts/00284_jason-thibeault-the-problem-with-privilege/</guid>
-      <description>I am also a white male. That&amp;rsquo;s right, I&amp;rsquo;m swinging pale pipe.
-This means I have at least two major positions of privilege over many of my compatriots in all of these various fights, and that my privilege causes my words to be amplified while others&#39; meritorious positions are muted. In addition, I am cisgender, where my societally-expected gender comports with the physical sex I was born with; and my heterosexuality is likewise considered &amp;ldquo;the norm&amp;rdquo; in society, and I am therefore privileged by virtue of happening to be part of a majority where the minorities are often silenced, excluded or ignored, whether purposefully or not.</description>
+      <guid>http://localhost:1313/posts/00284_jason-thibeault-the-problem-with-privilege/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.morethanmen.org/wp-content/uploads/2012/01/c403ad2296807115c42af3d0f94b8b81.jpeg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I am also a white male. That&amp;rsquo;s right, I&amp;rsquo;m swinging pale pipe.&lt;/p&gt;&#xA;&lt;p&gt;This means I have at least two major positions of privilege over many of my compatriots in all of these various fights, and that my privilege causes my words to be amplified while others&amp;rsquo; meritorious positions are muted. In addition, I am cisgender, where my societally-expected gender comports with the physical sex I was born with; and my heterosexuality is likewise considered &amp;ldquo;the norm&amp;rdquo; in society, and I am therefore privileged by virtue of happening to be part of a majority where the minorities are often silenced, excluded or ignored, whether purposefully or not. I often don&amp;rsquo;t realize I have these privileges &amp;ndash; the fact slides neatly into the shadows behind my thoughts, and it&amp;rsquo;s simply forgotten. As a result, sometimes in trying to help on one front, I&amp;rsquo;m unintentionally doing damage on another.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

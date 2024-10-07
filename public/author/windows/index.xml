@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on More than Men</title>
-    <link>https://morethanmen.org/author/windows/</link>
+    <link>http://localhost:1313/author/windows/</link>
     <description>Recent content in Windows on More than Men</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 07 May 2012 09:00:47 -0500</lastBuildDate><atom:link href="https://morethanmen.org/author/windows/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 May 2012 09:00:47 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Rampant Sexism within the USMA Corps of Cadets</title>
-      <link>https://morethanmen.org/posts/00892_the-rampant-sexism-within-the-usma-corps-of-cadets/</link>
+      <link>http://localhost:1313/posts/00892_the-rampant-sexism-within-the-usma-corps-of-cadets/</link>
       <pubDate>Mon, 07 May 2012 09:00:47 -0500</pubDate>
-      
-      <guid>https://morethanmen.org/posts/00892_the-rampant-sexism-within-the-usma-corps-of-cadets/</guid>
-      <description>[MISSING IMAGE]
-It is often that I doubt whether or not I truly wish to spend four years of my life here at West Point. The reasons are varied, but the one constant motivator that I have to stay is so that I can be part of the solution to all the issues that I see here. Sasha has been kind enough to give me an avenue to speak out.</description>
+      <guid>http://localhost:1313/posts/00892_the-rampant-sexism-within-the-usma-corps-of-cadets/</guid>
+      <description>&lt;p&gt;[MISSING IMAGE]&lt;/p&gt;&#xA;&lt;p&gt;It is often that I doubt whether or not I truly wish to spend four years of my life here at West Point. The reasons are varied, but the one constant motivator that I have to stay is so that I can be part of the solution to all the issues that I see here. Sasha has been kind enough to give me an avenue to speak out.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

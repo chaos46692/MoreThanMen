@@ -2,58 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carl on More than Men</title>
-    <link>https://morethanmen.org/author/carl/</link>
+    <link>http://localhost:1313/author/carl/</link>
     <description>Recent content in Carl on More than Men</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 11 Oct 2013 11:38:44 -0500</lastBuildDate><atom:link href="https://morethanmen.org/author/carl/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Oct 2013 11:38:44 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/carl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Facebook doesn&#39;t care if you die</title>
-      <link>https://morethanmen.org/posts/01775_facebook-doesnt-care-if-you-die/</link>
+      <link>http://localhost:1313/posts/01775_facebook-doesnt-care-if-you-die/</link>
       <pubDate>Fri, 11 Oct 2013 11:38:44 -0500</pubDate>
-      
-      <guid>https://morethanmen.org/posts/01775_facebook-doesnt-care-if-you-die/</guid>
-      <description>Dear Mr Zuckerberg,
-It must be pretty awesome to be a white dude with billions of dollars. It must be nice to be able to afford peace of mind. You do realize that not everyone is a billionaire right? Because when Facebook makes decisions to allow any timeline to be found by name alone that&amp;rsquo;s seriously messed up. Your suggestions to make things more secure are laughable:
-   Share each post with the people you want to be able to see it.</description>
+      <guid>http://localhost:1313/posts/01775_facebook-doesnt-care-if-you-die/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/uploads/2013/10/Fuck_facebook.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dear Mr Zuckerberg,&lt;/p&gt;&#xA;&lt;p&gt;It must be pretty awesome to be a white dude with billions of dollars. It must be nice to be able to &lt;a href=&#34;http://www.dailymail.co.uk/news/article-2051201/Facebook-founder-Mark-Zuckerberg-gets-bodyguard.html&#34; target=&#34;_blank&#34; &gt;afford peace of mind&lt;/a&gt;&#xD;&#xA; . You do realize that not everyone is a billionaire right? Because when &lt;a href=&#34;http://newsroom.fb.com/News/735/Reminder-Finishing-the-Removal-of-an-Old-Search-Setting&#34; target=&#34;_blank&#34; &gt;Facebook makes decisions to allow any timeline to be found by name alone&lt;/a&gt;&#xD;&#xA;  that&amp;rsquo;s seriously messed up. Your suggestions to make things more secure are laughable:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Share each post with the people you want to be able to see it. You control this every time you post.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What I have learned from the women in my life</title>
-      <link>https://morethanmen.org/posts/01610_what-i-have-learned-from-the-women-in-my-life/</link>
+      <link>http://localhost:1313/posts/01610_what-i-have-learned-from-the-women-in-my-life/</link>
       <pubDate>Tue, 28 May 2013 09:27:12 -0500</pubDate>
-      
-      <guid>https://morethanmen.org/posts/01610_what-i-have-learned-from-the-women-in-my-life/</guid>
-      <description>To put it in skeptic terms, #ShutUpAndListen means &amp;ldquo;You lack evidence relevant to this problem, so learn from those who have it.&amp;quot;
-So first off let&amp;rsquo;s address the elephant in the room. I simply cannot add anything to discussion of Ron Lindsay&amp;rsquo;s opening remarks that holds a candle to what&amp;rsquo;s been said by Secular Women, Dan Fincke, Adam Lee and a whole host of other people. I&amp;rsquo;m not even going to try because the more I think about it the more irritated I become about Dr.</description>
+      <guid>http://localhost:1313/posts/01610_what-i-have-learned-from-the-women-in-my-life/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/DaylightAtheism/status/336508125542744066&#34; target=&#34;_blank&#34; &gt;To put it in skeptic terms, #ShutUpAndListen means &amp;ldquo;You lack evidence relevant to this problem, so learn from those who have it.&amp;rdquo;&lt;/a&gt;&#xD;&#xA; &lt;/p&gt;&#xA;&lt;p&gt;So first off let&amp;rsquo;s address the elephant in the room. I simply cannot add anything to discussion of Ron Lindsay&amp;rsquo;s opening remarks that holds a candle to what&amp;rsquo;s been said by &lt;a href=&#34;http://www.secularwoman.org/Statement_of_Objection&#34; target=&#34;_blank&#34; &gt;Secular Women&lt;/a&gt;&#xD;&#xA; , &lt;a href=&#34;http://www.patheos.com/blogs/camelswithhammers/2013/05/feminism-civility-and-ron-lindsays-welcome-to-women-in-secularism/&#34; target=&#34;_blank&#34; &gt;Dan Fincke&lt;/a&gt;&#xD;&#xA; , &lt;a href=&#34;http://www.patheos.com/blogs/daylightatheism/2013/05/some-sadly-necessary-remarks-on-the-wiscfi-intro/&#34; target=&#34;_blank&#34; &gt;Adam Lee &lt;/a&gt;&#xD;&#xA; and a whole host of other people. I&amp;rsquo;m not even going to try because the more I think about it the more irritated I become about Dr. Lindsay&amp;rsquo;s careless remarks and reaction to criticism. I&amp;rsquo;m simply not able to able to make a reasonable criticism will not turn into a giant &amp;ldquo;fuck you.&amp;rdquo; The experiences of the last week have given me many reasons to reflect on the arc of my life over the past few decades and how exactly I got here. I&amp;rsquo;ve decided to write about the things that I&amp;rsquo;ve learned about life and myself over the past 20 or so years.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Stay-at-home dude</title>
-      <link>https://morethanmen.org/posts/01558_stay-at-home-dude/</link>
+      <link>http://localhost:1313/posts/01558_stay-at-home-dude/</link>
       <pubDate>Wed, 06 Feb 2013 09:00:09 -0500</pubDate>
-      
-      <guid>https://morethanmen.org/posts/01558_stay-at-home-dude/</guid>
-      <description>A friend posted a link to this article on Slate about a married man with no kids who is a homemaker. I loved the article. Due, in no small part, to the fact that this very well could have been how my life ended up. At one point in my life I was a physics major dating a chemical engineer - pretty clear who was going to be earning the big bucks there.</description>
+      <guid>http://localhost:1313/posts/01558_stay-at-home-dude/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/uploads/2013/02/dude_cooking.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;A friend posted a link to this article on Slate about a &lt;a href=&#34;http://www.slate.com/articles/double_x/doublex/2013/02/i_m_a_married_guy_with_no_kids_and_i_cook_clean_and_mend_call_me_the_stay.html&#34; target=&#34;_blank&#34; &gt;married man with no kids who is a homemaker&lt;/a&gt;&#xD;&#xA; . I loved the article. Due, in no small part, to the fact that this very well could have been how my life ended up. At one point in my life I was a physics major dating a chemical engineer - pretty clear who was going to be earning the big bucks there. While I only remember pieces of specific conversation, I do remember talking about multiple times. I married a woman who has a passion for what she does, but unlike the engineering major ex I&amp;rsquo;m definitely the primary breadwinner.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Respect as it applies to anti-harassment policies</title>
-      <link>https://morethanmen.org/posts/01030_respect-as-it-applies-to-anti-harassment-policies/</link>
+      <link>http://localhost:1313/posts/01030_respect-as-it-applies-to-anti-harassment-policies/</link>
       <pubDate>Wed, 20 Jun 2012 09:00:01 -0500</pubDate>
-      
-      <guid>https://morethanmen.org/posts/01030_respect-as-it-applies-to-anti-harassment-policies/</guid>
-      <description>As an organizer for my local Skeptic group, it was important to me to include an anti-harassment policy. My co-organizer and I very much wanted the gender ratio to be as close to 50/50 as it could be, for both speakers and attendees. To that end I wanted a good anti-harassment policy in place. I never imagined that it would be an issue. I guess at heart I&amp;rsquo;ve been far too much of an optimist.</description>
+      <guid>http://localhost:1313/posts/01030_respect-as-it-applies-to-anti-harassment-policies/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/uploads/2012/06/![](/uploads/2012/03/Smurfette-150x150.jpg)&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;As an organizer for my local Skeptic group, it was important to me to include an anti-harassment policy. My co-organizer and I very much wanted the gender ratio to be as close to 50/50 as it could be, for both speakers and attendees. To that end I wanted a good anti-harassment policy in place. I never imagined that it would be an issue. I guess at heart I&amp;rsquo;ve been far too much of an optimist.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contribute</title>
-      <link>https://morethanmen.org/posts/contribute/</link>
+      <link>http://localhost:1313/posts/contribute/</link>
       <pubDate>Sat, 11 Dec 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://morethanmen.org/posts/contribute/</guid>
-      <description>Howdy There&amp;rsquo;s nothing to see here. MtM has been shelved for quite a while and I&amp;rsquo;m not putting any effort into it, but I may allow limited contributions in the future</description>
+      <guid>http://localhost:1313/posts/contribute/</guid>
+      <description>&lt;h2 id=&#34;howdy&#34;&gt;Howdy&lt;/h2&gt;&#xA;&lt;p&gt;There&amp;rsquo;s nothing to see here. MtM has been shelved for quite a while and I&amp;rsquo;m not putting any effort into it, but I may allow limited contributions in the future&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

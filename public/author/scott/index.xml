@@ -2,21 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott on More than Men</title>
-    <link>https://morethanmen.org/author/scott/</link>
+    <link>http://localhost:1313/author/scott/</link>
     <description>Recent content in Scott on More than Men</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 27 Aug 2012 08:54:57 -0500</lastBuildDate><atom:link href="https://morethanmen.org/author/scott/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Aug 2012 08:54:57 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/scott/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>You never get a second chance...</title>
-      <link>https://morethanmen.org/posts/01268_you-never-get-a-second-chance/</link>
+      <link>http://localhost:1313/posts/01268_you-never-get-a-second-chance/</link>
       <pubDate>Mon, 27 Aug 2012 08:54:57 -0500</pubDate>
-      
-      <guid>https://morethanmen.org/posts/01268_you-never-get-a-second-chance/</guid>
-      <description>&amp;hellip;to make a first impression.
-Typically we find this &amp;ldquo;gem&amp;rdquo; of advice applying to an individual&amp;rsquo;s approach to an important meeting of some sort or even daily life. However, as a &amp;ldquo;First TAMmer&amp;rdquo;, I had the opportunity to do a little role reversal and get a true first impression from the active skeptic community at TAM2012.
-I&amp;rsquo;ve been a skeptic for a long while, but never really considered seeking out or joining any skeptic community.</description>
+      <guid>http://localhost:1313/posts/01268_you-never-get-a-second-chance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&amp;hellip;to make a first impression.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Typically we find this &amp;ldquo;gem&amp;rdquo; of advice applying to an individual&amp;rsquo;s approach to an important meeting of some sort or even daily life. However, as a &amp;ldquo;First TAMmer&amp;rdquo;, I had the opportunity to do a little role reversal and get a true first impression from the active skeptic community at TAM2012.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been a skeptic for a long while, but never really considered seeking out or joining any skeptic community. It never even crossed my mind. However, I had found myself in a position to help out at the &lt;a href=&#34;http://cosmoquest.org/&#34; target=&#34;_blank&#34; &gt;CosmoQuest&lt;/a&gt;&#xD;&#xA;  booth this year, which allowed me to jump into the skeptic scene head first. I had heard many different things about the tumultuous situation happening online, but made a conscious choice to avoid reading it. I wanted to walk into this situation with as little personal bias as possible, and I&amp;rsquo;m really glad I did.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

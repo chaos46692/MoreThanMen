@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SomeCndnSkeptic on More than Men</title>
-    <link>https://morethanmen.org/author/somecndnskeptic/</link>
+    <link>http://localhost:1313/author/somecndnskeptic/</link>
     <description>Recent content in SomeCndnSkeptic on More than Men</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jan 2012 10:00:26 -0500</lastBuildDate><atom:link href="https://morethanmen.org/author/somecndnskeptic/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Jan 2012 10:00:26 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/somecndnskeptic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steve Thoms The Diversity Division</title>
-      <link>https://morethanmen.org/posts/00230_steve-thoms-the-diversity-division/</link>
+      <link>http://localhost:1313/posts/00230_steve-thoms-the-diversity-division/</link>
       <pubDate>Tue, 10 Jan 2012 10:00:26 -0500</pubDate>
-      
-      <guid>https://morethanmen.org/posts/00230_steve-thoms-the-diversity-division/</guid>
-      <description>‘Diversity’ is one of those words that people can get tired of hearing very quickly: it makes them feel guilty and insensitive, and it almost always raises acrimonious discussion until it fizzles out, leaving bitter emotions in its wake. A quick perusal of comment threads (such as here, here, and here) might lead one to think that there is a small number of privileged minorities who have nothing better to do then to complain, insult, and derail conversations towards their pet project: complaining about a problem that was solved years ago.</description>
+      <guid>http://localhost:1313/posts/00230_steve-thoms-the-diversity-division/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/uploads/2012/01/60132_428691216628_750041628_5048940_2327283_n1-150x150.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;‘Diversity’ is one of those words that people can get tired of hearing very quickly: it makes them feel guilty and insensitive, and it almost always raises acrimonious discussion until it fizzles out, leaving bitter emotions in its wake.  A quick perusal of comment threads (such as &lt;a href=&#34;http://skepchick.org/2011/07/the-privilege-delusion/#comments&#34; target=&#34;_blank&#34; &gt;here&lt;/a&gt;&#xD;&#xA; , &lt;a href=&#34;http://scienceblogs.com/erv/2011/07/dawkins_coup_de_grace_in_vegas.php&#34; target=&#34;_blank&#34; &gt;here&lt;/a&gt;&#xD;&#xA; , and &lt;a href=&#34;http://skepchick.org/2011/06/ai-blinded-by-the-white/#comments&#34; target=&#34;_blank&#34; &gt;here&lt;/a&gt;&#xD;&#xA; ) might lead one to think that there is a small number of privileged minorities who have nothing better to do then to complain, insult, and derail conversations towards their pet project: complaining about a problem that was solved years ago.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,48 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matt on More than Men</title>
-    <link>https://morethanmen.org/author/matt/</link>
+    <link>http://localhost:1313/author/matt/</link>
     <description>Recent content in Matt on More than Men</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jul 2012 09:00:24 -0500</lastBuildDate><atom:link href="https://morethanmen.org/author/matt/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Jul 2012 09:00:24 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/matt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>isogyny in the Skeptical Movement: &#34;Don&#39;t Feed the Trolls&#34; Panel from SkepchickCon 2012</title>
-      <link>https://morethanmen.org/posts/01161_misogyny-in-the-skeptical-movement-dont-feed-the-trolls-panel-from-skepchickcon-2012/</link>
+      <link>http://localhost:1313/posts/01161_misogyny-in-the-skeptical-movement-dont-feed-the-trolls-panel-from-skepchickcon-2012/</link>
       <pubDate>Mon, 16 Jul 2012 09:00:24 -0500</pubDate>
-      
-      <guid>https://morethanmen.org/posts/01161_misogyny-in-the-skeptical-movement-dont-feed-the-trolls-panel-from-skepchickcon-2012/</guid>
-      <description>While at Convergence/SkepchickCon 2012 this past weekend, I did a lot of things, but one of the most fruitful and important was to attend the “Don’t Feed the Trolls” panel on the second day of the Con. The panel consisted of a number of prominent female skeptics (Rebecca Watson, Cristina Rad, Stephanie Zvan, and Heina Dadabhoy) along with a couple of male colleagues (Greg Laden and Jason Thibeault) discussing the issues of gender attitudes, sexism, and misogyny in the skeptical movement.</description>
+      <guid>http://localhost:1313/posts/01161_misogyny-in-the-skeptical-movement-dont-feed-the-trolls-panel-from-skepchickcon-2012/</guid>
+      <description>&lt;p&gt;While at &lt;a href=&#34;http://convergence-con.org/&#34; target=&#34;_blank&#34; &gt;Convergence/SkepchickCon 2012&lt;/a&gt;&#xD;&#xA;  this past weekend, I did a lot of things, but one of the most fruitful and important was to attend the “Don’t Feed the Trolls” panel on the second day of the Con. The panel consisted of a number of prominent female skeptics (&lt;a href=&#34;http://skepchick.org/author/rebecca/&#34; target=&#34;_blank&#34; &gt;Rebecca Watson&lt;/a&gt;&#xD;&#xA; , &lt;a href=&#34;http://freethoughtblogs.com/cristinarad&#34; target=&#34;_blank&#34; &gt;Cristina Rad&lt;/a&gt;&#xD;&#xA; , &lt;a href=&#34;http://freethoughtblogs.com/almostdiamonds/&#34; target=&#34;_blank&#34; &gt;Stephanie Zvan&lt;/a&gt;&#xD;&#xA; , and &lt;a href=&#34;http://skepchick.org/author/heina/&#34; target=&#34;_blank&#34; &gt;Heina Dadabhoy&lt;/a&gt;&#xD;&#xA; ) along with a couple of male colleagues (&lt;a href=&#34;http://scienceblogs.com/gregladen/&#34; target=&#34;_blank&#34; &gt;Greg Laden&lt;/a&gt;&#xD;&#xA;  and &lt;a href=&#34;http://freethoughtblogs.com/lousycanuck/&#34; target=&#34;_blank&#34; &gt;Jason Thibeault&lt;/a&gt;&#xD;&#xA; ) discussing the issues of gender attitudes, sexism, and misogyny in the skeptical movement. I think having these discussions in an open, public format is important, because there are a number of trolls out there who are not interested in reasoned, calm discussion on these issues; instead they are interested in intimidating those with whom they disagree and are attempting to silence them.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Death of Trayvon Martin and How Far We Have To Go</title>
-      <link>https://morethanmen.org/posts/00832_the-death-of-trayvon-martin-and-how-far-we-have-to-go/</link>
+      <link>http://localhost:1313/posts/00832_the-death-of-trayvon-martin-and-how-far-we-have-to-go/</link>
       <pubDate>Wed, 11 Apr 2012 09:00:14 -0500</pubDate>
-      
-      <guid>https://morethanmen.org/posts/00832_the-death-of-trayvon-martin-and-how-far-we-have-to-go/</guid>
-      <description>I think by now you’d have to have been living in a rather deep, dark hole to not have heard at least something about the sad case of Trayvon Martin’s death at the hands of George Zimmerman. Rather than rehash a lot of what has been hashed out and speculated upon ad nauseam regarding the case, I would like to speak to what I see as some broader questions.
-First, I will say that the purpose of this blog post is not to make an argument for the guilt or innocence of George Zimmerman, nor will I speculate on whether or not Trayvon Martin instigated the encounter, nor will I go into the question of whether or not so-called “stand your ground” laws are a good idea.</description>
+      <guid>http://localhost:1313/posts/00832_the-death-of-trayvon-martin-and-how-far-we-have-to-go/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/uploads/2012/04/287px-Kel-Tec_PF-91-150x150.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I think by now you’d have to have been living in a rather deep, dark hole to not have heard at least &lt;em&gt;something&lt;/em&gt; about the sad case of Trayvon Martin’s death at the hands of George Zimmerman.  Rather than rehash a lot of what has been hashed out and speculated upon ad nauseam regarding the case, I would like to speak to what I see as some broader questions.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Diversity in Skepticism: One White Guy&#39;s Perspective</title>
-      <link>https://morethanmen.org/posts/00481_diversity-in-skepticism-one-white-guys-perspective/</link>
+      <link>http://localhost:1313/posts/00481_diversity-in-skepticism-one-white-guys-perspective/</link>
       <pubDate>Wed, 08 Feb 2012 09:00:00 -0500</pubDate>
-      
-      <guid>https://morethanmen.org/posts/00481_diversity-in-skepticism-one-white-guys-perspective/</guid>
-      <description>Like many within the skeptical community, I have been reading with interest the recent discussion which has been waged (or, should I say, raged?) on the topic of diversity within the skeptical movement. Apparently, it all goes back to this article – Why White Men Should Refuse to be on Panels of All White Men – which led to this blog post over at Skepchick. It also seems that there is a bit of a “storm” of controversy swirling as a result of the discussion generated by these articles.</description>
+      <guid>http://localhost:1313/posts/00481_diversity-in-skepticism-one-white-guys-perspective/</guid>
+      <description>&lt;p&gt;Like many within the skeptical community, I have been reading with interest the recent discussion which has been waged (or, should I say, raged?) on the topic of diversity within the skeptical movement.  Apparently, it all goes back to this article – &lt;a href=&#34;http://www.good.is/post/why-white-men-should-refuse-to-be-on-panels-of-all-white-men/&#34; target=&#34;_blank&#34; &gt;Why White Men Should Refuse to be on Panels of All White Men&lt;/a&gt;&#xD;&#xA;  – which led to &lt;a href=&#34;http://skepchick.org/2011/06/ai-blinded-by-the-white/&#34; target=&#34;_blank&#34; &gt;this blog post over at Skepchick.&lt;/a&gt;&#xD;&#xA;   It also seems that there is a bit of a “storm” of controversy swirling as a result of the discussion generated by these articles.  I think Amy Roth, the author of the aforementioned Skepchick article, articulated it well with the following commentary:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Note to My Fellow Men at Conferences: Women Don&#39;t Dig Douchebags</title>
-      <link>https://morethanmen.org/posts/00479_note-to-my-fellow-men-at-conferences-women-dont-dig-douchebags/</link>
+      <link>http://localhost:1313/posts/00479_note-to-my-fellow-men-at-conferences-women-dont-dig-douchebags/</link>
       <pubDate>Tue, 31 Jan 2012 09:00:33 -0500</pubDate>
-      
-      <guid>https://morethanmen.org/posts/00479_note-to-my-fellow-men-at-conferences-women-dont-dig-douchebags/</guid>
-      <description>[NOTE: This was originally published in July 2011.]
-First, some background It seems the whole thing got started when Rebecca Watson of Skepchick wrote about an encounter she had with a man in an elevator in Dublin. Long story short: the guy propositioned her, and she said no; she also felt somewhat cornered seeing as how she was stuck, alone, in a metal cage with the guy. Apparently, there were a number of people who thought she handled the situation poorly (especially by blogging about it and noting the inappropriate behavior on the part of the man in question).</description>
+      <guid>http://localhost:1313/posts/00479_note-to-my-fellow-men-at-conferences-women-dont-dig-douchebags/</guid>
+      <description>&lt;p&gt;[NOTE: This was originally published in July 2011.]&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/uploads/2012/01/44173339_11.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;First, some background  It seems the whole thing got started when Rebecca Watson of Skepchick &lt;a href=&#34;http://furiouspurpose.me/2011/06/21/rebecca-watson-has-a-new-video/&#34; target=&#34;_blank&#34; &gt;wrote about an encounter she had with a man in an elevator in Dublin.&lt;/a&gt;&#xD;&#xA;   Long story short: the guy propositioned her, and she said no; she also felt somewhat cornered seeing as how she was stuck, alone, in a metal cage with the guy.  Apparently, there were a number of people who thought she handled the situation poorly (especially by blogging about it and noting the inappropriate behavior on the part of the man in question).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
